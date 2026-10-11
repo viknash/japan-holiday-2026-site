@@ -1,19 +1,36 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<html lang="en" data-theme="dark"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Lake Kinrin</title>
+<script>(function(){var t='dark';try{var s=localStorage.getItem('theme');if(s==='light'||s==='dark')t=s}catch(e){}document.documentElement.setAttribute('data-theme',t)})()</script>
 <style>
-:root{--bg:#faf8f5;--fg:#222;--muted:#666;--line:#e4ded6;--link:#0b5cad}
-@media (prefers-color-scheme:dark){:root{--bg:#16181b;--fg:#e8e6e3;--muted:#9a9a9a;--line:#33373c;--link:#8ab4f8}}
-body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 system-ui,sans-serif}a{color:var(--link)}
-main{max-width:900px;margin:auto;padding:16px}table{border-collapse:collapse;font-size:.88rem}th,td{border:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}.tablewrap{overflow-x:auto}.meta{color:var(--muted);font-size:.9rem}
-.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px}.gallery img{width:100%;border-radius:8px;display:block}
-figure{margin:0}figcaption{font-size:.7rem;color:var(--muted)}
+:root{color-scheme:dark;--bg:#0e1114;--fg:#e9e7e4;--muted:#a3a9b0;--card:#171b20;--line:#2b3138;--accent:#ff8a65;--link:#8ab4f8;--side:#12161a;--scroll:#3b434c;--scroll-hover:#58626e}
+:root[data-theme=light]{color-scheme:light;--bg:#f6f3ee;--fg:#1f2328;--muted:#5d6670;--card:#ffffff;--line:#e2dcd2;--accent:#b3261e;--link:#0b5cad;--side:#fffdf9;--scroll:#c6beb1;--scroll-hover:#a59b8c}
+html{scrollbar-color:var(--scroll) var(--bg);scrollbar-width:thin;scroll-behavior:smooth}
+*{scrollbar-color:var(--scroll) transparent;scrollbar-width:thin}
+::-webkit-scrollbar{width:10px;height:10px}::-webkit-scrollbar-track{background:transparent}
+::-webkit-scrollbar-thumb{background:var(--scroll);border-radius:8px;border:2px solid transparent;background-clip:padding-box}::-webkit-scrollbar-thumb:hover{background:var(--scroll-hover);background-clip:padding-box;border:2px solid transparent}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+.topbar{position:sticky;top:0;z-index:30;height:52px;display:flex;align-items:center;gap:10px;padding:0 12px;background:var(--side);border-bottom:1px solid var(--line)}
+.topbar .brand{flex:1;min-width:0;font-weight:700;color:var(--fg);text-decoration:none;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.topbar button{display:inline-flex;align-items:center;justify-content:center;height:36px;min-width:36px;padding:0 10px;border:1px solid var(--line);border-radius:18px;background:var(--card);color:var(--fg);font:600 15px/1 system-ui;cursor:pointer}
+.topbar button:hover{border-color:var(--accent)}.topbar a.back{color:var(--link);text-decoration:none;font-weight:600;white-space:nowrap}
+.theme-toggle .ic-sun{display:none}:root[data-theme=light] .theme-toggle .ic-sun{display:inline}:root[data-theme=light] .theme-toggle .ic-moon{display:none}
+</style>
+<style>
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 system-ui,sans-serif}a{color:var(--link)}
+main{max-width:900px;margin:auto;padding:16px}table{border-collapse:collapse;font-size:.88rem;width:100%}th,td{border:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}.tablewrap{overflow-x:auto}.meta{color:var(--muted);font-size:.9rem}
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px}.gallery img{width:100%;border-radius:8px;display:block}
+figure{margin:0}figcaption{font-size:.7rem;color:var(--muted)}h1{font-size:1.6rem;line-height:1.25}
 blockquote{margin:10px 0;padding:8px 12px;border-left:3px solid var(--line)}blockquote footer{font-size:.8rem;color:var(--muted);margin-top:4px}
-</style></head><body><main><p><a href="../index.html">&larr; Back to the itinerary</a></p>
+</style></head><body>
+<header class="topbar"><a class="back" href="../index.html">&larr; Itinerary</a><span class="brand"></span><button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch to light theme"><span class="ic-moon" aria-hidden="true">&#9790;</span><span class="ic-sun" aria-hidden="true">&#9728;</span></button></header>
+<main>
 <h1>Lake Kinrin</h1><p class="meta">1561-1 Yufuinchō Kawakami, Yufu, Oita 879-5102, Japan</p><p>Lake Kinrin is a small, picturesque lake in Yufuin famous for the morning mist that rises from its warm spring water, and a small shrine stands on its southern shore. It is a lovely place for a stroll, especially in the cold early morning.</p><p class="meta">Google says: A small shrine is located at the southern end of this picturesque lake famous for its morning mists.</p><p><a href="https://maps.google.com/?cid=10265864507533133798&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA" target="_blank" rel="noopener">Open in Google Maps</a> (street view, more photos and reviews there)</p><div class="gallery"><figure><img src="../images/lake-kinrin.jpg" alt="Lake Kinrin" loading="lazy"><figcaption>Photo: 李昆鴻 (Google Maps)</figcaption></figure><figure><img src="../images/lake-kinrin-2.jpg" alt="Lake Kinrin" loading="lazy"><figcaption>Photo: Hippo (Google Maps)</figcaption></figure><figure><img src="../images/lake-kinrin-3.jpg" alt="Lake Kinrin" loading="lazy"><figcaption>Photo: 胖雞先生 (Google Maps)</figcaption></figure><figure><img src="../images/lake-kinrin-4.jpg" alt="Lake Kinrin" loading="lazy"><figcaption>Photo: fexxxxxxxxxxx (Google Maps)</figcaption></figure><figure><img src="../images/lake-kinrin-5.jpg" alt="Lake Kinrin" loading="lazy"><figcaption>Photo: Emily Kuo (Google Maps)</figcaption></figure><figure><img src="../images/lake-kinrin-6.jpg" alt="Lake Kinrin" loading="lazy"><figcaption>Photo: Veerakiet Boonkanokwong (Google Maps)</figcaption></figure></div><h2>Visitor tips on finding it and getting there</h2><p class="meta">From Google Maps reviews that mention parking, paths or directions. They are visitors&rsquo; opinions, not checked by me.</p><blockquote>A Picturesque, Magical Escape in Yufuin – Simply Stunning!
 ​We came to Lake Kinrin for a stroll right after a lovely lunch, and it turned out to be the perfect highlight of our day. Though it’s a relatively short walk, every single angle looks like a living postcard.
 ​The water was unexpectedly clear—we even spotted a massive, vibrant golden koi swimming right up near the edge! What makes this walk truly unique is the stone torii gate standing right in the water at the far end of the lake.
 ​It is an incredibly serene place to just slow down. There are wooden benches shaded by massive ancient t<footer>ZigZag, 4 months ago</footer></blockquote><blockquote>Lake Kinrin is one of the most peaceful and picturesque spots in Yufuin, offering a calm atmosphere that feels almost dreamlike. Although the lake itself is not very large, its beauty lies in the details and the unique ambiance that surrounds it.
 
 What makes Lake Kinrin especially special is the way it changes throughout the day. In the early morning, a gentle mist often rises from the surface of the water, created by the mix of warm spring water and cooler air. This gives the lake a soft, magical feeling that is hard to describe but unforgettable to experience. It’s quiet, slightly mysterious<footer>Orathai Boonrossak, 5 months ago</footer></blockquote><blockquote>Beautiful and peaceful spot! Lake Kinrin is a small but incredibly scenic lake surrounded by mountains and quiet walking paths. The atmosphere is calm and relaxing, perfect for a slow stroll or taking photos. If you visit early in the morning during colder months, you can see the famous mist rising from the warm spring water, which makes the whole place feel magical. There’s a small shrine by the water, cute cafés nearby, and plenty of spots to sit and enjoy the view. It only takes about 15–30 minutes to walk around, but it’s absolutely worth the visit if you’re in Yufuin. A peaceful escape wi<footer>Keane Wee, 10 months ago</footer></blockquote>
-</main></body></html>
+</main><script>(function(){var b=document.getElementById('theme-toggle');if(!b)return;function sync(){var l=document.documentElement.getAttribute('data-theme')==='light';b.setAttribute('aria-label',l?'Switch to dark theme':'Switch to light theme');b.title=l?'Switch to dark theme':'Switch to light theme'}
+sync();b.addEventListener('click',function(){var n=document.documentElement.getAttribute('data-theme')==='light'?'dark':'light';document.documentElement.setAttribute('data-theme',n);try{localStorage.setItem('theme',n)}catch(e){}sync()})})();</script>
+</body></html>

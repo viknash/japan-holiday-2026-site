@@ -1,15 +1,30 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<html lang="en" data-theme="dark"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Harajiri Falls</title>
+<script>(function(){var t='dark';try{var s=localStorage.getItem('theme');if(s==='light'||s==='dark')t=s}catch(e){}document.documentElement.setAttribute('data-theme',t)})()</script>
 <style>
-:root{--bg:#faf8f5;--fg:#222;--muted:#666;--line:#e4ded6;--link:#0b5cad}
-@media (prefers-color-scheme:dark){:root{--bg:#16181b;--fg:#e8e6e3;--muted:#9a9a9a;--line:#33373c;--link:#8ab4f8}}
-body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 system-ui,sans-serif}a{color:var(--link)}
-main{max-width:900px;margin:auto;padding:16px}table{border-collapse:collapse;font-size:.88rem}th,td{border:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}.tablewrap{overflow-x:auto}.meta{color:var(--muted);font-size:.9rem}
-.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px}.gallery img{width:100%;border-radius:8px;display:block}
-figure{margin:0}figcaption{font-size:.7rem;color:var(--muted)}
+:root{color-scheme:dark;--bg:#0e1114;--fg:#e9e7e4;--muted:#a3a9b0;--card:#171b20;--line:#2b3138;--accent:#ff8a65;--link:#8ab4f8;--side:#12161a;--scroll:#3b434c;--scroll-hover:#58626e}
+:root[data-theme=light]{color-scheme:light;--bg:#f6f3ee;--fg:#1f2328;--muted:#5d6670;--card:#ffffff;--line:#e2dcd2;--accent:#b3261e;--link:#0b5cad;--side:#fffdf9;--scroll:#c6beb1;--scroll-hover:#a59b8c}
+html{scrollbar-color:var(--scroll) var(--bg);scrollbar-width:thin;scroll-behavior:smooth}
+*{scrollbar-color:var(--scroll) transparent;scrollbar-width:thin}
+::-webkit-scrollbar{width:10px;height:10px}::-webkit-scrollbar-track{background:transparent}
+::-webkit-scrollbar-thumb{background:var(--scroll);border-radius:8px;border:2px solid transparent;background-clip:padding-box}::-webkit-scrollbar-thumb:hover{background:var(--scroll-hover);background-clip:padding-box;border:2px solid transparent}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+.topbar{position:sticky;top:0;z-index:30;height:52px;display:flex;align-items:center;gap:10px;padding:0 12px;background:var(--side);border-bottom:1px solid var(--line)}
+.topbar .brand{flex:1;min-width:0;font-weight:700;color:var(--fg);text-decoration:none;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.topbar button{display:inline-flex;align-items:center;justify-content:center;height:36px;min-width:36px;padding:0 10px;border:1px solid var(--line);border-radius:18px;background:var(--card);color:var(--fg);font:600 15px/1 system-ui;cursor:pointer}
+.topbar button:hover{border-color:var(--accent)}.topbar a.back{color:var(--link);text-decoration:none;font-weight:600;white-space:nowrap}
+.theme-toggle .ic-sun{display:none}:root[data-theme=light] .theme-toggle .ic-sun{display:inline}:root[data-theme=light] .theme-toggle .ic-moon{display:none}
+</style>
+<style>
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 system-ui,sans-serif}a{color:var(--link)}
+main{max-width:900px;margin:auto;padding:16px}table{border-collapse:collapse;font-size:.88rem;width:100%}th,td{border:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}.tablewrap{overflow-x:auto}.meta{color:var(--muted);font-size:.9rem}
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px}.gallery img{width:100%;border-radius:8px;display:block}
+figure{margin:0}figcaption{font-size:.7rem;color:var(--muted)}h1{font-size:1.6rem;line-height:1.25}
 blockquote{margin:10px 0;padding:8px 12px;border-left:3px solid var(--line)}blockquote footer{font-size:.8rem;color:var(--muted);margin-top:4px}
-</style></head><body><main><p><a href="../index.html">&larr; Back to the itinerary</a></p>
+</style></head><body>
+<header class="topbar"><a class="back" href="../index.html">&larr; Itinerary</a><span class="brand"></span><button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch to light theme"><span class="ic-moon" aria-hidden="true">&#9790;</span><span class="ic-sun" aria-hidden="true">&#9728;</span></button></header>
+<main>
 <h1>Harajiri Falls</h1><p class="meta">410 Ogatamachi Harajiri, Bungoono, Oita 879-6631, Japan</p><p>Harajiri Falls is a large semicircular waterfall that you can view from a wooden suspension bridge, nicknamed the Niagara of the East. It is one of the best-known waterfalls in Oita.</p><p class="meta">Google says: This large waterfall forming a semicircle can be viewed from a wooden suspension bridge.</p><p><a href="https://maps.google.com/?cid=17483227653104827847&amp;g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA" target="_blank" rel="noopener">Open in Google Maps</a> (street view, more photos and reviews there)</p><div class="gallery"><figure><img src="../images/harajiri-falls.jpg" alt="Harajiri Falls" loading="lazy"><figcaption>Photo: 住野清子 (Google Maps)</figcaption></figure><figure><img src="../images/harajiri-falls-2.jpg" alt="Harajiri Falls" loading="lazy"><figcaption>Photo: Akihito Koriyama (Google Maps)</figcaption></figure><figure><img src="../images/harajiri-falls-3.jpg" alt="Harajiri Falls" loading="lazy"><figcaption>Photo: taka mymy (sting_manio) (Google Maps)</figcaption></figure><figure><img src="../images/harajiri-falls-4.jpg" alt="Harajiri Falls" loading="lazy"><figcaption>Photo: sarasaya “zazie” meiko (Google Maps)</figcaption></figure><figure><img src="../images/harajiri-falls-5.jpg" alt="Harajiri Falls" loading="lazy"><figcaption>Photo: Kouji Tsuru (Google Maps)</figcaption></figure><figure><img src="../images/harajiri-falls-6.jpg" alt="Harajiri Falls" loading="lazy"><figcaption>Photo: 水川 (Google Maps)</figcaption></figure></div><h2>Visitor tips on finding it and getting there</h2><p class="meta">From Google Maps reviews that mention parking, paths or directions. They are visitors&rsquo; opinions, not checked by me.</p><blockquote>The &quot;Niagara of the East&quot; in Oita
 
 I visited Harajiri Falls on a hot summer weekend, July 18, 2026, and it was an unforgettable stop during my Kyushu road trip.
@@ -17,4 +32,6 @@ I visited Harajiri Falls on a hot summer weekend, July 18, 2026, and it was an u
 Harajiri Falls is one of Kyushu&#x27;s most spectacular natural attractions and is often called the &quot;Niagara of the East.&quot; Located in the peaceful countryside of Bungo-Ono, Oita Prefecture, this impressive waterfall stretches about 120 meters wide with a 20-meter drop, creating a breathtaking panoramic view. It has also been selected as one of Japan&#x27;s Top 100 Waterfalls.
 
 One of the best parts of visiting is walking across the suspension b<footer>Benz Hue, 2 months ago</footer></blockquote><blockquote>Cool waterfall, you can go down to the bottom and skip rocks. There also seem to be small sightseeing boat tours too. If you walk along the top of the waterfall towards the stairs on the otherside, you can get a really good view of the falls too. There&#x27;s also a cool bridge that goes across it where you can get a good view. Interesting things at the michinoeki (road side station) too!<footer>Katia Lam, 5 months ago</footer></blockquote>
-</main></body></html>
+</main><script>(function(){var b=document.getElementById('theme-toggle');if(!b)return;function sync(){var l=document.documentElement.getAttribute('data-theme')==='light';b.setAttribute('aria-label',l?'Switch to dark theme':'Switch to light theme');b.title=l?'Switch to dark theme':'Switch to light theme'}
+sync();b.addEventListener('click',function(){var n=document.documentElement.getAttribute('data-theme')==='light'?'dark':'light';document.documentElement.setAttribute('data-theme',n);try{localStorage.setItem('theme',n)}catch(e){}sync()})})();</script>
+</body></html>

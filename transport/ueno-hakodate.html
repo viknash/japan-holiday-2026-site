@@ -1,15 +1,30 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<html lang="en" data-theme="dark"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Day 19, Sun 20 Dec: Ueno to Hakodate (Tohoku and Hokkaido Shinkansen)</title>
+<script>(function(){var t='dark';try{var s=localStorage.getItem('theme');if(s==='light'||s==='dark')t=s}catch(e){}document.documentElement.setAttribute('data-theme',t)})()</script>
 <style>
-:root{--bg:#faf8f5;--fg:#222;--muted:#666;--line:#e4ded6;--link:#0b5cad}
-@media (prefers-color-scheme:dark){:root{--bg:#16181b;--fg:#e8e6e3;--muted:#9a9a9a;--line:#33373c;--link:#8ab4f8}}
-body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 system-ui,sans-serif}a{color:var(--link)}
-main{max-width:900px;margin:auto;padding:16px}table{border-collapse:collapse;font-size:.88rem}th,td{border:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}.tablewrap{overflow-x:auto}.meta{color:var(--muted);font-size:.9rem}
-.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:10px}.gallery img{width:100%;border-radius:8px;display:block}
-figure{margin:0}figcaption{font-size:.7rem;color:var(--muted)}
+:root{color-scheme:dark;--bg:#0e1114;--fg:#e9e7e4;--muted:#a3a9b0;--card:#171b20;--line:#2b3138;--accent:#ff8a65;--link:#8ab4f8;--side:#12161a;--scroll:#3b434c;--scroll-hover:#58626e}
+:root[data-theme=light]{color-scheme:light;--bg:#f6f3ee;--fg:#1f2328;--muted:#5d6670;--card:#ffffff;--line:#e2dcd2;--accent:#b3261e;--link:#0b5cad;--side:#fffdf9;--scroll:#c6beb1;--scroll-hover:#a59b8c}
+html{scrollbar-color:var(--scroll) var(--bg);scrollbar-width:thin;scroll-behavior:smooth}
+*{scrollbar-color:var(--scroll) transparent;scrollbar-width:thin}
+::-webkit-scrollbar{width:10px;height:10px}::-webkit-scrollbar-track{background:transparent}
+::-webkit-scrollbar-thumb{background:var(--scroll);border-radius:8px;border:2px solid transparent;background-clip:padding-box}::-webkit-scrollbar-thumb:hover{background:var(--scroll-hover);background-clip:padding-box;border:2px solid transparent}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+.topbar{position:sticky;top:0;z-index:30;height:52px;display:flex;align-items:center;gap:10px;padding:0 12px;background:var(--side);border-bottom:1px solid var(--line)}
+.topbar .brand{flex:1;min-width:0;font-weight:700;color:var(--fg);text-decoration:none;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.topbar button{display:inline-flex;align-items:center;justify-content:center;height:36px;min-width:36px;padding:0 10px;border:1px solid var(--line);border-radius:18px;background:var(--card);color:var(--fg);font:600 15px/1 system-ui;cursor:pointer}
+.topbar button:hover{border-color:var(--accent)}.topbar a.back{color:var(--link);text-decoration:none;font-weight:600;white-space:nowrap}
+.theme-toggle .ic-sun{display:none}:root[data-theme=light] .theme-toggle .ic-sun{display:inline}:root[data-theme=light] .theme-toggle .ic-moon{display:none}
+</style>
+<style>
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 system-ui,sans-serif}a{color:var(--link)}
+main{max-width:900px;margin:auto;padding:16px}table{border-collapse:collapse;font-size:.88rem;width:100%}th,td{border:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}.tablewrap{overflow-x:auto}.meta{color:var(--muted);font-size:.9rem}
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px}.gallery img{width:100%;border-radius:8px;display:block}
+figure{margin:0}figcaption{font-size:.7rem;color:var(--muted)}h1{font-size:1.6rem;line-height:1.25}
 blockquote{margin:10px 0;padding:8px 12px;border-left:3px solid var(--line)}blockquote footer{font-size:.8rem;color:var(--muted);margin-top:4px}
-</style></head><body><main><p><a href="../index.html">&larr; Back to the itinerary</a></p>
+</style></head><body>
+<header class="topbar"><a class="back" href="../index.html">&larr; Itinerary</a><span class="brand"></span><button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch to light theme"><span class="ic-moon" aria-hidden="true">&#9790;</span><span class="ic-sun" aria-hidden="true">&#9728;</span></button></header>
+<main>
 <h1>Day 19, Sun 20 Dec: Ueno to Hakodate (Tohoku and Hokkaido Shinkansen)</h1><p class="meta"></p><p>Part of <a href="../index.html" target="&#95;blank" rel="noopener">Day 19 in the itinerary</a>. Source: Yahoo! JAPAN Transit searches for Sun 20 Dec 2026 (fetched 11 Oct 2026; timetables stated current as of October 2026), plus an Ekitan article (dated 2026/06/01) for the wider Hayabusa pattern. All Hayabusa and Kagayaki seats are <strong>reserved</strong> (no unreserved cars).</p>
 <h3>Chosen journey</h3>
 <div class="tablewrap"><table><thead><tr><th>Leg</th><th>Depart</th><th>Train</th><th>Arrive</th><th>Notes</th></tr></thead><tbody><tr><td>Ueno to Omiya</td><td><strong>08:17</strong></td><td>Kagayaki 505</td><td>08:35</td><td>11,120 yen seat charge</td></tr><tr><td>Change at Omiya</td><td>08:35 to 08:42</td><td></td><td></td><td><strong>7-minute connection</strong> (platform 18 to 19 on the planner)</td></tr><tr><td>Omiya to Shin-Hakodate-Hokuto</td><td><strong>08:42</strong></td><td><strong>Hayabusa 5</strong></td><td><strong>12:15</strong></td><td>Sendai 09:50, Morioka 10:29, Shin-Aomori 11:18; 12,870 yen</td></tr><tr><td>Change at Shin-Hakodate-Hokuto</td><td>12:15 to 12:35</td><td></td><td></td><td>20-minute connection</td></tr><tr><td>Shin-Hakodate-Hokuto to Hakodate</td><td><strong>12:35</strong></td><td>Rapid <strong>Hakodate Liner</strong></td><td><strong>12:50</strong></td><td>470 yen; 15 minutes</td></tr></tbody></table></div>
@@ -23,4 +38,6 @@ blockquote{margin:10px 0;padding:8px 12px;border-left:3px solid var(--line)}bloc
 <p>The planner also lists flights via Haneda (for example ANA 553 at 09:45 landing 11:05) but door to door they are no faster and cost about 61,000 yen. The Shinkansen is the plan.</p>
 <h3>Not verified</h3>
 <p>Whether a direct Hayabusa from Ueno suits better than the Kagayaki plus Hayabusa change, reserved-seat availability for this date, and winter weather delays on the Hokkaido section.</p>
-</main></body></html>
+</main><script>(function(){var b=document.getElementById('theme-toggle');if(!b)return;function sync(){var l=document.documentElement.getAttribute('data-theme')==='light';b.setAttribute('aria-label',l?'Switch to dark theme':'Switch to light theme');b.title=l?'Switch to dark theme':'Switch to light theme'}
+sync();b.addEventListener('click',function(){var n=document.documentElement.getAttribute('data-theme')==='light'?'dark':'light';document.documentElement.setAttribute('data-theme',n);try{localStorage.setItem('theme',n)}catch(e){}sync()})})();</script>
+</body></html>
