@@ -1,0 +1,29 @@
+{
+ "reminders": {
+  "label": "Booking and cancellation reminders",
+  "last_run": "2026-10-15T17:58:17+00:00",
+  "ok": true,
+  "detail": "7 due in the next 40 days; next: Book by Wed 11 Nov (27 days): Shinkansen Hakata-Hiroshima-Shin-Osaka (",
+  "last_ok": "2026-10-15T17:58:17+00:00"
+ },
+ "weather": {
+  "label": "Weather outlook",
+  "last_run": "2026-10-15T17:58:17+00:00",
+  "ok": true,
+  "detail": "no trip day in the 16-day window yet (first day is in 48 days)",
+  "last_ok": "2026-10-15T17:58:17+00:00"
+ },
+ "push": {
+  "label": "Publishing to GitHub",
+  "last_run": "2026-10-15T17:58:19+00:00",
+  "ok": true,
+  "detail": "public site: up to date; project: pushed 2 commit(s)",
+  "last_ok": "2026-10-15T17:58:19+00:00"
+ },
+ "maps": {
+  "label": "Route maps",
+  "last_run": "2026-10-15T18:00:55+00:00",
+  "ok": false,
+  "detail": "route maps for day(s) 1, 2 could not be redrawn here (no WebGL); run make_route_maps.py on a machine with Edge or Chrome"
+ }
+}
