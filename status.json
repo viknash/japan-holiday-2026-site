@@ -15,16 +15,17 @@
  },
  "push": {
   "label": "Publishing to GitHub",
-  "last_run": "2026-10-15T18:04:47+00:00",
+  "last_run": "2026-10-15T18:30:08+00:00",
   "ok": true,
   "detail": "public site: up to date; project: up to date",
-  "last_ok": "2026-10-15T18:04:47+00:00"
+  "last_ok": "2026-10-15T18:30:08+00:00"
  },
  "maps": {
   "label": "Route maps",
-  "last_run": "2026-10-15T18:03:53+00:00",
-  "ok": false,
-  "detail": "route maps for day(s) 1, 2 could not be redrawn here (no WebGL); run make_route_maps.py on a machine with Edge or Chrome"
+  "last_run": "2026-10-15T18:39:59+00:00",
+  "ok": true,
+  "detail": "redrawn for day(s) 1, 2, 15 with software WebGL on the server",
+  "last_ok": "2026-10-15T18:39:59+00:00"
  },
  "sync": {
   "label": "Itinerary and website sync",
@@ -35,16 +36,16 @@
  },
  "bookings": {
   "label": "Hotel booking emails",
-  "last_run": "2026-10-15T18:21:49+00:00",
+  "last_run": "2026-10-15T18:31:55+00:00",
   "ok": true,
   "detail": "mailbox checked; 1 booking(s) on file",
-  "last_ok": "2026-10-15T18:21:49+00:00"
+  "last_ok": "2026-10-15T18:31:55+00:00"
  },
  "health": {
   "label": "Health checks",
-  "last_run": "2026-10-15T18:04:47+00:00",
+  "last_run": "2026-10-15T18:28:35+00:00",
   "ok": true,
   "detail": "all 7 checks ok",
-  "last_ok": "2026-10-15T18:04:47+00:00"
+  "last_ok": "2026-10-15T18:28:35+00:00"
  }
 }
