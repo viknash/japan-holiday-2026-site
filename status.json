@@ -22,8 +22,28 @@
  },
  "maps": {
   "label": "Route maps",
-  "last_run": "2026-10-15T18:00:55+00:00",
+  "last_run": "2026-10-15T18:03:53+00:00",
   "ok": false,
   "detail": "route maps for day(s) 1, 2 could not be redrawn here (no WebGL); run make_route_maps.py on a machine with Edge or Chrome"
+ },
+ "sync": {
+  "label": "Itinerary and website sync",
+  "last_run": "2026-10-15T18:01:13+00:00",
+  "ok": true,
+  "detail": "itinerary and site updated",
+  "last_ok": "2026-10-15T18:01:13+00:00"
+ },
+ "bookings": {
+  "label": "Hotel booking emails",
+  "last_run": "2026-10-15T18:01:42+00:00",
+  "ok": true,
+  "detail": "mailbox checked; 1 booking(s) on file",
+  "last_ok": "2026-10-15T18:01:42+00:00"
+ },
+ "health": {
+  "label": "Health checks",
+  "last_run": "2026-10-15T18:01:50+00:00",
+  "ok": false,
+  "detail": "6/7 ok; live site is not the latest build (push pending or Pages still building)"
  }
 }
