@@ -19,6 +19,7 @@ html{scrollbar-color:var(--scroll) var(--bg);scrollbar-width:thin;scroll-behavio
 <style>
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.55 system-ui,sans-serif}a{color:var(--link)}
 main{max-width:900px;margin:auto;padding:16px}table{border-collapse:collapse;font-size:.88rem;width:100%}th,td{border:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}.tablewrap{overflow-x:auto}.meta{color:var(--muted);font-size:.9rem}
+details.fold{margin:14px 0}details.fold>summary{display:flex;align-items:center;gap:8px;list-style:none;cursor:pointer}details.fold>summary::-webkit-details-marker{display:none}details.fold>summary::before{content:'\25B8';color:var(--accent);transition:transform .15s}details.fold[open]>summary::before{transform:rotate(90deg)}details.fold>summary h2{margin:0;font-size:1.15rem}details.fold[open]>summary{margin-bottom:10px}.foldall{font-size:.85rem;color:var(--muted)}
 .gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px}.gallery img{width:100%;border-radius:8px;display:block}
 figure{margin:0}figcaption{font-size:.7rem;color:var(--muted)}h1{font-size:1.6rem;line-height:1.25}
 blockquote{margin:10px 0;padding:8px 12px;border-left:3px solid var(--line)}blockquote footer{font-size:.8rem;color:var(--muted);margin-top:4px}
