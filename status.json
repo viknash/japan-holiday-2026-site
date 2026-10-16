@@ -15,9 +15,9 @@
  },
  "push": {
   "label": "Publishing to GitHub",
-  "last_run": "2026-10-15T18:30:08+00:00",
-  "ok": true,
-  "detail": "public site: up to date; project: up to date",
+  "last_run": "2026-10-16T00:30:17+00:00",
+  "ok": false,
+  "detail": "public site: up to date; project: 2 commit(s) waiting, push failed (credentials?)",
   "last_ok": "2026-10-15T18:30:08+00:00"
  },
  "maps": {
@@ -36,10 +36,10 @@
  },
  "bookings": {
   "label": "Hotel booking emails",
-  "last_run": "2026-10-15T18:31:55+00:00",
+  "last_run": "2026-10-16T00:26:52+00:00",
   "ok": true,
   "detail": "mailbox checked; 1 booking(s) on file",
-  "last_ok": "2026-10-15T18:31:55+00:00"
+  "last_ok": "2026-10-16T00:26:52+00:00"
  },
  "health": {
   "label": "Health checks",
