@@ -259,8 +259,10 @@ function ago(iso,ran){if(!iso)return ran?'never succeeded':'not run yet';var m=M
 function paint(){var worst=0,order=['green','orange','red'],any=false;rows.forEach(function(r){var c=colour(r.getAttribute('data-ok'),r.getAttribute('data-ran')==='1'),d=r.querySelector('.dot');d.className='dot '+c;r.querySelector('.age').textContent=ago(r.getAttribute('data-ok'),r.getAttribute('data-ran')==='1');var i=order.indexOf(c);if(i>=0){any=true;if(i>worst)worst=i}});var w=any?order[worst]:'grey';if(top)top.className='dot '+w;if(sum)sum.className='dot '+w}
 function refresh(){if(location.protocol.indexOf('http')!==0)return;fetch('status.json?'+Date.now(),{cache:'no-store'}).then(function(r){return r.ok?r.json():null}).then(function(d){if(!d)return;rows.forEach(function(r){var s=d[r.getAttribute('data-key')];if(s){r.setAttribute('data-ran','1');if(s.last_ok)r.setAttribute('data-ok',s.last_ok);var t=r.querySelector('.det');if(t&&s.detail!==undefined)t.textContent=(s.ok===false?'last run failed: ':'')+s.detail}});paint()}).catch(function(){})}
 paint();refresh();setInterval(paint,60000);setInterval(refresh,300000)})();
+function settle(){var h=location.hash.slice(1);if(!/^d\d+$/.test(h))return;var e=document.getElementById(h);if(!e)return;var root=document.documentElement,n=0;root.style.scrollBehavior='auto';(function go(){e.scrollIntoView();if(++n<10)setTimeout(go,300);else root.style.scrollBehavior=''})()}
+addEventListener('hashchange',settle);addEventListener('load',settle);
 function unfold(id){var e=id&&document.getElementById(id.replace(/^#/,''));var d=e&&e.querySelector(':scope > details.fold');if(d&&!d.open){d.open=true;e.scrollIntoView()}}
 document.addEventListener('click',function(ev){var a=ev.target.closest&&ev.target.closest('a[href^="#"]');if(a)unfold(a.getAttribute('href'))});
-window.addEventListener('hashchange',function(){unfold(location.hash)});unfold(location.hash);
+window.addEventListener('hashchange',function(){unfold(location.hash)});unfold(location.hash);settle();
 var t=null;window.addEventListener('scroll',function(){if(t)return;t=setTimeout(function(){t=null;spy()},80)},{passive:true});spy()})();</script>
 </body></html>
