@@ -1,12 +1,12 @@
 {
- "checked": "2026-10-17",
+ "checked": "2026-10-18",
  "places": {
   "Dazaifu Tenmangu Shrine": {
    "place_id": "ChIJzfvrKp-bQTURl65fp6vRJLg",
    "matched_name": "Dazaifu Tenmangu Shrine",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=13268960937318002327&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=13268960937318002327&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -234,7 +234,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -244,19 +244,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Kamado Shrine": {
    "place_id": "ChIJ_469vmKbQTURW7dK-mK7gBY",
    "matched_name": "Kamado Shrine",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=1621501899633768283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=1621501899633768283&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -484,7 +484,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -494,19 +494,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Sakurai Futamigaura's Couple Stones": {
    "place_id": "ChIJdZijMN3uQTURZk1DiKqs-Uc",
    "matched_name": "Sakurai Futamigaura's Couple Stones",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=5186366294324366694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=5186366294324366694&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -519,47 +519,47 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Shiraito Waterfall Observation Deck": {
    "place_id": "ChIJiaL4dwDDQTURzGilwWORYbk",
    "matched_name": "Shiraito Waterfall Observation Deck",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=13358117827394234572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=13358117827394234572&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Senjuin Waterfall": {
    "place_id": "ChIJr8dyUVfDQTURiwkN2VHSa0U",
    "matched_name": "Senjuin Waterfall",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=5002323060100761995&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=5002323060100761995&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -572,37 +572,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Kannon Falls": {
    "place_id": "ChIJ51ZmVLnaQTURb5baCczllsg",
    "matched_name": "Kannon Falls",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=14453992718593594991&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=14453992718593594991&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -777,14 +777,14 @@
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Karatsu Castle (suggested)": {
    "place_id": "ChIJk2WZ-3Z4ajURR_Cyd8NIKE0",
    "matched_name": "Karatsu Castle",
    "distance_m": 3,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=5559773744352915527&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=5559773744352915527&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -1012,7 +1012,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -1022,19 +1022,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Mikaeri No Taki Falls": {
    "place_id": "ChIJgbkxPzzUQTURb_CYVCiIn8E",
    "matched_name": "Mikaeri No Taki Falls",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=13952019877416464495&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=13952019877416464495&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -1047,57 +1047,57 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "八女中央大茶園 Yame Central Tea Plantation": {
    "place_id": "ChIJLwtNU9anQTURkxWwEe7r5ns",
    "matched_name": "八女中央大茶園 Yame Central Tea Plantation",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=8928082719040083347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=8928082719040083347&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Akaishidani Falls": {
    "place_id": "ChIJ3X02-g4fQTURYwQO9ukD_N8",
    "matched_name": "Akaishidani Falls",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=16139779467979392099&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=16139779467979392099&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Reimei Waterfall": {
    "place_id": "ChIJqVmQV3IfQTURsvmCDqcUEzI",
    "matched_name": "Reimei Waterfall",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=3608250434189457842&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=3608250434189457842&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -1110,37 +1110,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Kikuchi Gorge": {
    "place_id": "ChIJXWdAkmYfQTUReR7lwMlCQtY",
    "matched_name": "Kikuchi Gorge",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=15438975906871582329&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=15438975906871582329&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -1368,7 +1368,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -1378,29 +1378,29 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Hirokawara (Kikuchi Valley)": {
    "place_id": "ChIJQzJKADwfQTURuFn9_GaO-Uw",
    "matched_name": "Hirokawara (Kikuchi Valley)",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=5546620989065746872&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=5546620989065746872&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Kumamoto Castle": {
    "place_id": "ChIJWco6Ag70QDURMOTNdshmi14",
    "matched_name": "Kumamoto Castle",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=6812651872500704304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=6812651872500704304&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -1628,7 +1628,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -1638,19 +1638,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Sakuranobaba Josaien tourist information centre": {
    "place_id": "ChIJZ_prBdj1QDUR_mnsyHf76nQ",
    "matched_name": "Sakuranobaba Josaien tourist information centre",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=8424822544840550910&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=8424822544840550910&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -1878,7 +1878,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -1888,29 +1888,29 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "鹿目の滝 駐車スペース": {
    "place_id": "ChIJhxziHwB1PzURo_hSrgRxBrg",
    "matched_name": "鹿目の滝 駐車スペース",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=13260410417757485219&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=13260410417757485219&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Cloth Waterfall": {
    "place_id": "ChIJvSXUdyNzPzUReJkqH2oQESw",
    "matched_name": "Cloth Waterfall",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=3175337260248373624&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=3175337260248373624&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -1923,37 +1923,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Sogi Waterfall.": {
    "place_id": "ChIJy349HOmoPzURDX0fMyrSjeM",
    "matched_name": "Sogi Waterfall.",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=16396992897014005005&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=16396992897014005005&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -1966,37 +1966,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Ryumon Falls": {
    "place_id": "ChIJD8VxkOb4PjURvM2kTfjotz0",
    "matched_name": "Ryumon Falls",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=4447279310203833788&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=4447279310203833788&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -2009,37 +2009,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Sengan-en": {
    "place_id": "ChIJ4X7e7l5ePjURPwj6UsWmblk",
    "matched_name": "Sengan-en",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=6444271483244644415&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=6444271483244644415&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -2267,7 +2267,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -2277,19 +2277,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Sakurajima Volcanic Shore Park and Footbath": {
    "place_id": "ChIJl0lTYTNePjUREUk61o5l5JU",
    "matched_name": "Sakurajima Volcanic Shore Park and Footbath",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=10800869470495197457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=10800869470495197457&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -2517,7 +2517,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -2527,19 +2527,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Yunohira Observation Deck": {
    "place_id": "ChIJe72TBYZfPjURe32WlqPoJr4",
    "matched_name": "Yunohira Observation Deck",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=13701894705625070971&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=13701894705625070971&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -2552,37 +2552,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Kirishima Factory Garden": {
    "place_id": "ChIJR24k1uAmPzUR_q6bUML0MKc",
    "matched_name": "Kirishima Factory Garden",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=12047398118629289726&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=12047398118629289726&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -2788,7 +2788,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -2798,19 +2798,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Jokoji Waterfall": {
    "place_id": "ChIJf1IA9TzWRjURaFJr7u61AOU",
    "matched_name": "Jokoji Waterfall",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=16501389072492352104&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=16501389072492352104&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -2823,37 +2823,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Ryūgaiwa Waterfall": {
    "place_id": "ChIJzyBO5F8qRzUR8T_TRR4ykSc",
    "matched_name": "Ryūgaiwa Waterfall",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=2851115144704114673&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=2851115144704114673&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -2866,37 +2866,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Takachiho Gorge": {
    "place_id": "ChIJLwml_t0sRzURix_JnSldeVg",
    "matched_name": "Takachiho Gorge",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=6375229180841893771&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=6375229180841893771&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -3124,7 +3124,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -3134,19 +3134,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Kamishikimi Kumanoza Shrine": {
    "place_id": "ChIJYaNe7szXQDURfseK99Yvd3U",
    "matched_name": "Kamishikimi Kumanoza Shrine",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=8464286624988710782&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=8464286624988710782&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -3159,37 +3159,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Koga Falls": {
    "place_id": "ChIJFYB9ZJIoQTUR9KrxVehHRuw",
    "matched_name": "Koga Falls",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=17025374504520624884&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=17025374504520624884&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -3202,37 +3202,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Kusasenri Observatory": {
    "place_id": "ChIJK3oim8bYQDUR_3eqW7b_XcA",
    "matched_name": "Kusasenri Observatory",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=13861516386803283967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=13861516386803283967&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -3245,37 +3245,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Kabutoiwa Scenic Overlook": {
    "place_id": "ChIJL2lPlGshQTUR5tBxbfdx4ms",
    "matched_name": "Kabutoiwa Scenic Overlook",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=7773901214301933798&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=7773901214301933798&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -3288,47 +3288,47 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Daikanbo Lookout": {
    "place_id": "ChIJL2Yg60gkQTURZD0jL2gjPUo",
    "matched_name": "Daikanbo Lookout",
    "distance_m": 0,
    "status": "",
-   "uri": "https://maps.google.com/?cid=5349470862760426852&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=5349470862760426852&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Nabegataki Falls": {
    "place_id": "ChIJCWqplwk8QTURoH7q2Y34zzM",
    "matched_name": "Nabegataki Falls",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=3733475904243531424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=3733475904243531424&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -3556,7 +3556,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -3566,19 +3566,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Meoto Falls": {
    "place_id": "ChIJ49fhQ3E6QTUR6tGuCng-pFo",
    "matched_name": "Meoto Falls",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=6531414044890288618&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=6531414044890288618&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -3591,37 +3591,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Kokonoe Yume Otsuribashi": {
    "place_id": "ChIJ8btCDUlKQTURKiVhK3GUU_0",
    "matched_name": "Kokonoe Yume Otsuribashi",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=18254096928442754346&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=18254096928442754346&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -3849,7 +3849,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -3859,19 +3859,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Shindou Falls": {
    "place_id": "ChIJry59Kk9KQTUR5iiMlRf3rn8",
    "matched_name": "Shindou Falls",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=9200562769429801190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=9200562769429801190&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -3884,37 +3884,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Tengu Waterfall": {
    "place_id": "ChIJjfqJ1d5LQTUREdK1hFJYeG8",
    "matched_name": "Tengu Waterfall",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=8032267046852350481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=8032267046852350481&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -3927,37 +3927,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Kusuikei": {
    "place_id": "ChIJPfRUE0tKQTURylrgMu12e_c",
    "matched_name": "Kusuikei",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=17832977910636501706&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=17832977910636501706&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -3970,37 +3970,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Lake Kinrin": {
    "place_id": "ChIJa7QFnn2uRjUR5ofN82Ctd44",
    "matched_name": "Lake Kinrin",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=10265864507533133798&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=10265864507533133798&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -4013,37 +4013,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Chinda Falls": {
    "place_id": "ChIJ70gZOBTARjURZhUpYiafzb0",
    "matched_name": "Chinda Falls",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=13676762630598497638&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=13676762630598497638&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -4056,37 +4056,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Harajiri Falls": {
    "place_id": "ChIJt3oNB_DFRjURx32ZnuvmoPI",
    "matched_name": "Harajiri Falls",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=17483227653104827847&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=17483227653104827847&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -4099,37 +4099,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Kōmori Falls Observatory": {
    "place_id": "ChIJuyX-iU7PRjUR-0rcxRgHCHc",
    "matched_name": "Kōmori Falls Observatory",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=8577113293307267835&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=8577113293307267835&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -4142,37 +4142,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Kamado Jigoku": {
    "place_id": "ChIJiVukIaOnRjURqERRv0ixdK8",
    "matched_name": "Kamado Jigoku",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=12642924979941360808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=12642924979941360808&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -4400,7 +4400,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -4410,19 +4410,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Shiraike Jigoku": {
    "place_id": "ChIJ0S6DqKOnRjURKwF0ax1Xe_w",
    "matched_name": "Shiraike Jigoku",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=18193230903561683243&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=18193230903561683243&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -4650,7 +4650,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -4660,19 +4660,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Chinoike Jigoku": {
    "place_id": "ChIJJYAEBIOnRjUR9AeooEwd1ck",
    "matched_name": "Chinoike Jigoku",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=14543562786612971508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=14543562786612971508&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -4900,7 +4900,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -4910,19 +4910,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Shidaka Lake": {
    "place_id": "ChIJi_AvHuWlRjURZf-W4ihuFh4",
    "matched_name": "Shidaka Lake",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=2168041392504766309&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=2168041392504766309&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -5150,7 +5150,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -5160,19 +5160,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "神楽女湖しょうぶ園": {
    "place_id": "ChIJK5lCDI2lRjURmFRgM9YodNg",
    "matched_name": "神楽女湖しょうぶ園",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=15597136309940933784&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=15597136309940933784&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -5400,7 +5400,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -5410,29 +5410,29 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Mizunashi Waterfall.": {
    "place_id": "ChIJP_RPo6alRjURRczpD4EqY50",
    "matched_name": "Mizunashi Waterfall.",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=11340955020455169093&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=11340955020455169093&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Higashi Shiiya Falls": {
    "place_id": "ChIJ2--QpsSpRjURpItNWqoqGhI",
    "matched_name": "Higashi Shiiya Falls",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=1304401953225018276&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=1304401953225018276&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -5445,37 +5445,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Susaki Falls Observation Deck": {
    "place_id": "ChIJdedIcq2pRjUR0C2Q8dhb1xk",
    "matched_name": "Susaki Falls Observation Deck",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=1862057958264810960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=1862057958264810960&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -5488,37 +5488,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Amari Falls": {
    "place_id": "ChIJsbwnSvuqRjURhaXifAuefSM",
    "matched_name": "Amari Falls",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=2557373935593366917&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=2557373935593366917&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -5531,47 +5531,47 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Yo Shrine": {
    "place_id": "ChIJD3jq6VyrRjURrF1F_2t4dKU",
    "matched_name": "Yo Shrine",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=11922286518796115372&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=11922286518796115372&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Aonodōmon": {
    "place_id": "ChIJ0bBOw038QzURqYnti0aFVxA",
    "matched_name": "Aonodōmon",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=1177556365622479273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=1177556365622479273&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -5584,37 +5584,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Hitome Hakkei Observation Deck": {
    "place_id": "ChIJzaswbiFRQTUR1ohMDPcMu-Q",
    "matched_name": "Hitome Hakkei Observation Deck",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=16481781516495259862&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=16481781516495259862&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -5627,37 +5627,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Waterfall Jion": {
    "place_id": "ChIJwRMZDpFGQTURvVZQqO9DX8Q",
    "matched_name": "Waterfall Jion",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=14150103250821469885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=14150103250821469885&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -5670,37 +5670,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Kuromon Rojiura Bakery (Tojinmachi, closed Tuesdays)": {
    "place_id": "ChIJZU7ZBkWTQTURyYnY6SzDwQU",
    "matched_name": "Kuromon Rojiura Bakery",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=414827238364056009&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=414827238364056009&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -5894,7 +5894,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -5904,19 +5904,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Tenjin Underground Mall (Tenjin Chikagai, shops 10:00-20:00)": {
    "place_id": "ChIJ970Xo46RQTURm6GUmUJcn6Y",
    "matched_name": "Tenjin Underground Mall",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=12006416572707283355&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=12006416572707283355&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -6144,7 +6144,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -6154,19 +6154,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Kawabata Shopping Arcade": {
    "place_id": "ChIJiShWTeuRQTURqDhAzGV8sXw",
    "matched_name": "Kawabata Shopping Arcade",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=8985099508241152168&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=8985099508241152168&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -6341,14 +6341,14 @@
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Kushida Shrine": {
    "place_id": "ChIJV2pTquqRQTURpI1FhH5siaE",
    "matched_name": "Kushida Shrine",
    "distance_m": 1,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=11639954002556587428&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=11639954002556587428&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -6576,7 +6576,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -6586,19 +6586,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Life-Size RX-93ff 𝛎 Gundam Statue": {
    "place_id": "ChIJ4_0WFuiRQTURxlN32OlD-ck",
    "matched_name": "Life-Size RX-93ff 𝛎 Gundam Statue",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=14553738342462608326&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=14553738342462608326&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -6611,37 +6611,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Canal City Hakata (winter illumination after dark)": {
    "place_id": "ChIJYcOBiZWRQTUR0Rl0ehe67eA",
    "matched_name": "CANAL CITY HAKATA",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=16207815243977726417&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=16207815243977726417&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -6869,7 +6869,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -6879,19 +6879,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Nakasu Yatai (open-air food stalls, izakaya street)": {
    "place_id": "ChIJZXHUV5SRQTURYdfj4ChdfPY",
    "matched_name": "Nagahama Yatai Yamachan (Nakasu)",
    "distance_m": 123,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=17761173460595496801&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=17761173460595496801&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -6955,6 +6955,29 @@
     }
    ],
    "current": [
+    {
+     "open": {
+      "day": 0,
+      "hour": 0,
+      "minute": 0,
+      "truncated": true,
+      "date": {
+       "year": 2026,
+       "month": 10,
+       "day": 18
+      }
+     },
+     "close": {
+      "day": 0,
+      "hour": 3,
+      "minute": 0,
+      "date": {
+       "year": 2026,
+       "month": 10,
+       "day": 18
+      }
+     }
+    },
     {
      "open": {
       "day": 2,
@@ -7033,37 +7056,13 @@
       }
      },
      "close": {
-      "day": 5,
-      "hour": 23,
-      "minute": 59,
-      "truncated": true,
-      "date": {
-       "year": 2026,
-       "month": 10,
-       "day": 23
-      }
-     }
-    },
-    {
-     "open": {
-      "day": 6,
-      "hour": 0,
-      "minute": 0,
-      "truncated": true,
-      "date": {
-       "year": 2026,
-       "month": 10,
-       "day": 17
-      }
-     },
-     "close": {
       "day": 6,
       "hour": 3,
       "minute": 0,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     },
@@ -7075,29 +7074,30 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
-      "day": 0,
-      "hour": 3,
-      "minute": 0,
+      "day": 6,
+      "hour": 23,
+      "minute": 59,
+      "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 18
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Hiroshima Orizuru Tower": {
    "place_id": "ChIJyz9bjQyiWjURHMzhMGEGw8Q",
    "matched_name": "Hiroshima Orizuru Tower",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=14178183066394151964&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=14178183066394151964&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -7325,7 +7325,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -7335,19 +7335,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Atomic Bomb Dome": {
    "place_id": "ChIJqYAn2wyiWjURlsDG4Hpn5jQ",
    "matched_name": "Atomic Bomb Dome",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=3811847912070496406&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=3811847912070496406&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -7360,37 +7360,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Hiroshima Peace Memorial Museum": {
    "place_id": "ChIJtyvayxKiWjURgIGSanFnMPE",
    "matched_name": "Hiroshima Peace Memorial Museum",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=17379504698839695744&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=17379504698839695744&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -7618,7 +7618,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -7628,19 +7628,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Osaka Castle": {
    "place_id": "ChIJ_TooXM3gAGARQR6hXH3QAQ8",
    "matched_name": "Osaka Castle",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=1081374622389182017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=1081374622389182017&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -7868,7 +7868,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -7878,19 +7878,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Dotonbori": {
    "place_id": "ChIJ_fmKgRPnAGARkKWLtCYTu7g",
    "matched_name": "Dotonbori",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=13311254180582368656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=13311254180582368656&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -7903,37 +7903,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Shinsekai and Tsutenkaku Tower (suggested)": {
    "place_id": "ChIJ_0Lgd2DnAGARV0X03lbPy-U",
    "matched_name": "Tsutenkaku",
    "distance_m": 1,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=16558556426972448087&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=16558556426972448087&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -8161,7 +8161,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -8171,19 +8171,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Nunobiki Falls - Ontaki": {
    "place_id": "ChIJO45pYNqOAGAR4vmoQHxzRgg",
    "matched_name": "Nunobiki Falls - Ontaki",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=596290978171124194&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=596290978171124194&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -8196,37 +8196,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Nunobiki Herb Gardens and Ropeway (suggested)": {
    "place_id": "ChIJWapiVtGOAGARVY9nvX-kXII",
    "matched_name": "Kobe Nunobiki Herb Gardens & Ropeway",
    "distance_m": 4,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=9393563791333494613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=9393563791333494613&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -8454,7 +8454,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -8464,19 +8464,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Kitano Ijinkan-gai (suggested)": {
    "place_id": "ChIJT6cViuCOAGARegX_ORkvbs0",
    "matched_name": "Kobe Kitano Ijinkan-Gai",
    "distance_m": 3,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=14802820810607101306&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=14802820810607101306&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -8704,7 +8704,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -8714,19 +8714,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Nankinmachi Chinatown (suggested)": {
    "place_id": "ChIJkaqwvf2OAGARARl_1gEYbx0",
    "matched_name": "Nankinmachi",
    "distance_m": 2,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=2120940345687480577&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=2120940345687480577&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -8739,37 +8739,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Kobe Port Tower and Harborland (suggested)": {
    "place_id": "ChIJD5fHbgePAGARpXshMiA87rA",
    "matched_name": "Kobe Harborland",
    "distance_m": 405,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=12749193704110128037&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=12749193704110128037&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -8997,7 +8997,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -9007,19 +9007,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Universal Studios Japan Arch Gate (security and entry; park opens about 09:00)": {
    "place_id": "ChIJV5YSfQDpAGART8K9ivWWf3c",
    "matched_name": "Universal Studios Arch Gate (JR Side)",
    "distance_m": 1,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=8610766993894523471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=8610766993894523471&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -9247,7 +9247,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -9257,19 +9257,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Donkey Kong Country: Mine Cart Madness": {
    "place_id": "ChIJhYx7JwDpAGAR-XSlhtK0jIU",
    "matched_name": "Mine Cart Madness",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=9623265320079029497&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=9623265320079029497&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -9497,7 +9497,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -9507,19 +9507,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Mario Kart: Koopa's Challenge": {
    "place_id": "ChIJlYpf8CrpAGARDXyFHiCdxxI",
    "matched_name": "Mario Kart Koopa's Challenge",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=1353222974324702221&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=1353222974324702221&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -9747,7 +9747,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -9757,19 +9757,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Yoshi's Adventure": {
    "place_id": "ChIJz2dhPqXpAGAReBKtBT8e09o",
    "matched_name": "Yoshi’s Adventure™︎",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=15767979976381239928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=15767979976381239928&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -9997,7 +9997,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -10007,19 +10007,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Harry Potter and the Forbidden Journey": {
    "place_id": "ChIJGf38cC7pAGARQQhs6KAmJeU",
    "matched_name": "Harry Potter and the Forbidden Journey™",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=16511646081359808577&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=16511646081359808577&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -10247,7 +10247,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -10257,19 +10257,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Flight of the Hippogriff": {
    "place_id": "ChIJF3GaGJXoAGARJk-tInXkAKI",
    "matched_name": "Flight of the Hippogriff",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=11673581425888415526&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=11673581425888415526&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -10497,7 +10497,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -10507,19 +10507,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Ollivanders wand shop": {
    "place_id": "ChIJ2ZtcL5XoAGARqW8zFesFslE",
    "matched_name": "Ollivanders",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=5886774170157805481&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=5886774170157805481&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -10747,7 +10747,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -10757,29 +10757,29 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "WaterWorld (live stunt show; check show times)": {
    "place_id": "ChIJN83i4eroAGAR4LpftoGRd38",
    "matched_name": "Water World",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=9184969951341951712&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=9184969951341951712&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Jurassic Park: The Ride (you get wet)": {
    "place_id": "ChIJfwCksezoAGARjw6p5qIGXlg",
    "matched_name": "Jurassic Park: The Ride",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=6367534219872767631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=6367534219872767631&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -11007,7 +11007,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -11017,19 +11017,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Despicable Me: Minion Mayhem": {
    "place_id": "ChIJQ_G86JLoAGARrH8n3sXqOKw",
    "matched_name": "Despicable Me: Minion Mayhem",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=12409926908775989164&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=12409926908775989164&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -11257,7 +11257,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -11267,29 +11267,29 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Illumination's Villain-Con Minion Blast": {
    "place_id": "ChIJFciMMgDpAGARdp4olksN8h0",
    "matched_name": "ミニオン・ハチャメチャ・ミッション ～大悪党への道～",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=2157801789756841590&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=2157801789756841590&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Jaws": {
    "place_id": "ChIJGTUSsJToAGARvn9kQdQN_FY",
    "matched_name": "Jaws: The Ride",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=6267899986674220990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=6267899986674220990&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -11517,7 +11517,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -11527,29 +11527,29 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Space Fantasy: The Ride (check: shown as temporarily closed)": {
    "place_id": "ChIJeegizpPoAGARYmWEi_QTzps",
    "matched_name": "Space Fantasy The Ride",
    "distance_m": 1,
    "status": "CLOSED_TEMPORARILY",
-   "uri": "https://maps.google.com/?cid=11226932862114882914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=11226932862114882914&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Bubba Gump Shrimp Co. (Universal CityWalk Osaka, outside the park, dinner)": {
    "place_id": "ChIJ5REkyZboAGARGoFK6xN1MyM",
    "matched_name": "Bubba Gump Shrimp",
    "distance_m": 1,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=2536499743552078106&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=2536499743552078106&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -11777,7 +11777,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -11787,19 +11787,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Arashiyama Bamboo Forest": {
    "place_id": "ChIJrYtcv-urAWAR3XzWvXv8n_s",
    "matched_name": "Arashiyama Bamboo Forest",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=18131488233213033693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=18131488233213033693&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -11812,37 +11812,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Kinkaku-ji": {
    "place_id": "ChIJvUbrwCCoAWARX2QiHCsn5A4",
    "matched_name": "Kinkaku-ji",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=1073025677330113631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=1073025677330113631&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -12070,7 +12070,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -12080,19 +12080,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Nijō Castle": {
    "place_id": "ChIJC5srCtQHAWARLy9qkFmHaxA",
    "matched_name": "Nijō Castle",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=1183188145859604271&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=1183188145859604271&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -12320,7 +12320,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -12330,19 +12330,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "To-ji Temple": {
    "place_id": "ChIJTar7hQQGAWAREHkXsNkt7tM",
    "matched_name": "To-ji Temple",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=15271193799445412112&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=15271193799445412112&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -12570,7 +12570,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -12580,19 +12580,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Nanzen-ji": {
    "place_id": "ChIJ_fuXcyEJAWARTQDnx6Q5szg",
    "matched_name": "Nanzen-ji",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=4085672666846396493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=4085672666846396493&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -12820,7 +12820,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -12830,19 +12830,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Ginkaku-ji": {
    "place_id": "ChIJ4W9CCwUJAWARyauI6BzKiiU",
    "matched_name": "Ginkaku-ji",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=2705196751698570185&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=2705196751698570185&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -13070,7 +13070,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -13080,19 +13080,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Nintendo Museum": {
    "place_id": "ChIJ04cwuIgRAWARTSu2aErfb2Q",
    "matched_name": "Nintendo Museum",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=7237248636885019469&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=7237248636885019469&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -13286,7 +13286,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -13296,19 +13296,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Nakatanidou": {
    "place_id": "ChIJmzwHEog5AWARiML9vXtSFso",
    "matched_name": "Nakatanidou",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=14561917136571056776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=14561917136571056776&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -13502,7 +13502,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -13512,19 +13512,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Kōfuku-ji": {
    "place_id": "ChIJs-w9sog5AWARk0WDN0cPgxE",
    "matched_name": "Kōfuku-ji",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=1261869119142315411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=1261869119142315411&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -13752,7 +13752,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -13762,29 +13762,29 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Deer Park (Nara Park)": {
    "place_id": "ChIJSSdpKr45AWARs3kLilG3sEs",
    "matched_name": "The Deer Park Inn",
    "distance_m": 387,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=5454060709581912499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=5454060709581912499&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Kasugataisha Shrine": {
    "place_id": "ChIJ1Wqwa8A5AWARlpXjgoPnl0w",
    "matched_name": "Kasugataisha Shrine",
    "distance_m": 1,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=5519134420388517270&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=5519134420388517270&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -14012,7 +14012,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -14022,19 +14022,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Mizuya Chaya": {
    "place_id": "ChIJj9LYfJU5AWARbAtuh3oHDSc",
    "matched_name": "Mizuya Chaya",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=2813913565015968620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=2813913565015968620&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -14194,7 +14194,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -14204,19 +14204,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Nandaimon Gate": {
    "place_id": "ChIJ6XAV-ZA5AWAREBHjJdslKoA",
    "matched_name": "Nandaimon Gate",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=9235235609040326928&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=9235235609040326928&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -14229,37 +14229,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Tōdai-ji": {
    "place_id": "ChIJ3XYIepA5AWARjzzVnT-skPg",
    "matched_name": "Tōdai-ji",
    "distance_m": 13,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=17911005107283377295&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=17911005107283377295&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -14487,7 +14487,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -14497,19 +14497,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Isuien Garden and Neiraku Museum": {
    "place_id": "ChIJc31a-Y85AWARo70kM5pXEVo",
    "matched_name": "Isuien Garden and Neiraku Museum",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=6490064857812221347&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=6490064857812221347&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -14703,7 +14703,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -14713,19 +14713,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Yoshikien Garden": {
    "place_id": "ChIJVVXR5I85AWARNCgUmaCemHE",
    "matched_name": "Yoshikien Garden",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=8185466735346067508&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=8185466735346067508&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -14953,7 +14953,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -14963,19 +14963,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Shiraito Falls": {
    "place_id": "ChIJTa6BAO7aG2ARo2W6w446Kgk",
    "matched_name": "Shiraito Falls",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=660404680206738851&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=660404680206738851&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -14988,37 +14988,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Otodome Falls": {
    "place_id": "ChIJTa6BAO7aG2ARo2W6w446Kgk",
    "matched_name": "Shiraito Falls",
    "distance_m": 173,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=660404680206738851&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=660404680206738851&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -15031,37 +15031,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Fuji Milk Land (Asagiri Plateau, Mt Fuji views)": {
    "place_id": "ChIJRzUkrnbbG2ARAw8-4PZX6cM",
    "matched_name": "Fuji Milk Land",
    "distance_m": 1,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=14116911224805265155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=14116911224805265155&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -15289,7 +15289,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -15299,19 +15299,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Fujisan Hongu Sengen Taisha": {
    "place_id": "ChIJE_h8kefUG2ARt84QZaZLCNg",
    "matched_name": "Fujisan Hongu Sengen Taisha Shrine",
    "distance_m": 1,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=15566775290038374071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=15566775290038374071&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -15539,7 +15539,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -15549,19 +15549,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Ueno Zoological Gardens": {
    "place_id": "ChIJf2129yiMGGAR9I6Yoe-1uHY",
    "matched_name": "Ueno Zoological Gardens",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=8554787533003198196&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=8554787533003198196&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -15755,7 +15755,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -15765,19 +15765,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Tokyo National Museum and Ueno Park (suggested)": {
    "place_id": "ChIJEX3XFIOOGGAR3XdJvRjWLyM",
    "matched_name": "Tokyo National Museum",
    "distance_m": 1,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=2535480516976146397&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=2535480516976146397&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -15971,7 +15971,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -15981,29 +15981,29 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Ameyoko market (suggested)": {
    "place_id": "ChIJh7eDrwCPGGARCs9fpCkKS2U",
    "matched_name": "Ameyoko market",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=7298938795051699978&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=7298938795051699978&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Kanemori Red Brick Warehouse (suggested)": {
    "place_id": "ChIJo1BfeKjznl8R-KEsd6JreQ4",
    "matched_name": "Kanemori Red Brick Warehouse",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=1042983134241268216&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=1042983134241268216&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -16231,7 +16231,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -16241,19 +16241,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Hachimanzaka and Motomachi (suggested)": {
    "place_id": "ChIJT_xUJ6rznl8RXrmIZ5nBJjY",
    "matched_name": "Hachiman-Zaka Slope",
    "distance_m": 153,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=3902018991774284126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=3902018991774284126&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -16266,37 +16266,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Mt Hakodate Ropeway and night view (suggested)": {
    "place_id": "ChIJ3y9gWwDznl8RQN0L-QFS-qY",
    "matched_name": "Mt. Hakodate Ropeway",
    "distance_m": 384,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=12032019522900450624&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=12032019522900450624&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -16524,7 +16524,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -16534,19 +16534,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Hakodate Morning Market (suggested)": {
    "place_id": "ChIJ9Th38KHznl8RlR8a2ny1fuQ",
    "matched_name": "Hakodate Morning Market Ekini Market",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=16464796835552829333&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=16464796835552829333&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -16774,7 +16774,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -16784,19 +16784,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Goryokaku Tower and Park (suggested)": {
    "place_id": "ChIJsw48tWv0nl8RnqjxKCD49XU",
    "matched_name": "Goryōkaku Tower",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=8499972688741247134&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=8499972688741247134&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -17024,7 +17024,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -17034,19 +17034,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Hokkaido Jingu shrine and Maruyama Park (suggested)": {
    "place_id": "ChIJk6jwxNwpC18RCNdmWzXijew",
    "matched_name": "Hokkaido Jingu",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=17045528883461805832&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=17045528883461805832&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -17274,7 +17274,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -17284,19 +17284,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Sapporo Beer Museum (suggested)": {
    "place_id": "ChIJ0fYsL4QpC18Ry-fF7_rGYBM",
    "matched_name": "Sapporo Beer Museum",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=1396334665551701963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=1396334665551701963&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -17524,7 +17524,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -17534,19 +17534,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Sapporo Clock Tower (suggested)": {
    "place_id": "ChIJR3JQJ3YpC18R680ES0qomxs",
    "matched_name": "Sapporo Clock Tower",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=1989368697453858283&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=1989368697453858283&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -17774,7 +17774,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -17784,19 +17784,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Odori Park (suggested)": {
    "place_id": "ChIJKdPFSFEpC18RnuAg7TaybA4",
    "matched_name": "Odori Park",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=1039401562992074910&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=1039401562992074910&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -17809,37 +17809,37 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Sapporo TV Tower (suggested)": {
    "place_id": "ChIJjWSHX50pC18RMSAiw3gaBOI",
    "matched_name": "Sapporo TV Tower",
    "distance_m": 1,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=16286171258450747441&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=16286171258450747441&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -18067,7 +18067,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -18077,19 +18077,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Noboribetsu Jigokudani (Hell Valley)": {
    "place_id": "ChIJ___jisJmdV8RzL7_3Cqwtcc",
    "matched_name": "Noboribetsu Jigokudani Valley",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=14390601882475151052&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=14390601882475151052&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -18102,47 +18102,47 @@
    "current": [
     {
      "open": {
-      "day": 6,
+      "day": 0,
       "hour": 0,
       "minute": 0,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 18
       }
      },
      "close": {
-      "day": 5,
+      "day": 6,
       "hour": 23,
       "minute": 59,
       "truncated": true,
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 23
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Lake Toya Onsen Town (lunch, free time)": {
    "place_id": "ChIJD8YbU7zin18ROBmpoxi6q20",
    "matched_name": "Lake Toya Hot Spring",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=7902614586139416888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=7902614586139416888&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Toya Silo Observation Deck": {
    "place_id": "ChIJwVanrk9WdV8Rl0Q6ktSJrPk",
    "matched_name": "Toya National Park Silo Observation Deck",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=17990906157517653143&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=17990906157517653143&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -18370,7 +18370,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -18380,19 +18380,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Niseko Takahashi Farm": {
    "place_id": "ChIJO72qL8CvCl8RCD79oSW_yOE",
    "matched_name": "Niseko Takahashi Dairy Farm MILK KOBO",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=16269463822228340232&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=16269463822228340232&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -18620,7 +18620,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -18630,19 +18630,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Lawson Niseko Hirafu (Mt Yotei viewpoint)": {
    "place_id": "ChIJ_U3vmhKwCl8RgF4-j-SJyoM",
    "matched_name": "Lawson Niseko Hirafu",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=9496554379012890240&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=9496554379012890240&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -18870,7 +18870,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -18880,19 +18880,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Shirogane Blue Pond (Aoiike)": {
    "place_id": "ChIJbyoi3mLMDF8RnndLnx8YzQQ",
    "matched_name": "Shirogane Blue Pond (Aoiike)",
    "distance_m": 0,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=345959270472972190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=345959270472972190&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -19120,7 +19120,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -19130,19 +19130,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Sapporo Teine, Olympia zone (rental, tickets, a full ski day)": {
    "place_id": "ChIJLRLJ7xfYCl8R_MltyFlEiys",
    "matched_name": "Teine Highland Ski Center Sapporo",
    "distance_m": 1221,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=3137676717799098876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=3137676717799098876&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -19370,7 +19370,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -19380,19 +19380,19 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "JR Tower Observation Deck T38 (suggested)": {
    "place_id": "ChIJqU_V3HQpC18RBd_rZ_cUqCw",
    "matched_name": "JR Tower Observatory T38",
    "distance_m": 146,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=3217844986589208325&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=3217844986589208325&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [
     {
      "open": {
@@ -19620,7 +19620,7 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      },
      "close": {
@@ -19630,22 +19630,22 @@
       "date": {
        "year": 2026,
        "month": 10,
-       "day": 17
+       "day": 24
       }
      }
     }
    ],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   },
   "Tanukikoji shopping arcade (suggested)": {
    "place_id": "ChIJyWjcFIMpC18RoRfh7HqDCT4",
    "matched_name": "Tanukikoji Shopping Street",
    "distance_m": 124,
    "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=4470248669125351329&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=4470248669125351329&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-10-16"
+   "fetched": "2026-10-18"
   }
  },
  "visits": {
