@@ -15,10 +15,10 @@
  },
  "push": {
   "label": "Publishing to GitHub",
-  "last_run": "2026-10-24T19:00:00+00:00",
+  "last_run": "2026-10-25T01:00:45+00:00",
   "ok": true,
   "detail": "public site: up to date; project: up to date",
-  "last_ok": "2026-10-24T19:00:00+00:00"
+  "last_ok": "2026-10-25T01:00:45+00:00"
  },
  "maps": {
   "label": "Route maps",
@@ -36,10 +36,10 @@
  },
  "bookings": {
   "label": "Hotel booking emails",
-  "last_run": "2026-10-24T18:57:01+00:00",
+  "last_run": "2026-10-25T00:54:53+00:00",
   "ok": true,
   "detail": "mailbox checked; 1 booking(s) on file",
-  "last_ok": "2026-10-24T18:57:01+00:00"
+  "last_ok": "2026-10-25T00:54:53+00:00"
  },
  "health": {
   "label": "Health checks",
@@ -64,16 +64,16 @@
  },
  "flights": {
   "label": "Airline emails (flight changes)",
-  "last_run": "2026-10-24T18:57:02+00:00",
+  "last_run": "2026-10-25T00:54:54+00:00",
   "ok": true,
   "detail": "0 new email(s) read; 0 flight change alert(s) sent",
-  "last_ok": "2026-10-24T18:57:02+00:00"
+  "last_ok": "2026-10-25T00:54:54+00:00"
  },
  "hazards": {
   "label": "Earthquake alerts (JMA)",
-  "last_run": "2026-10-24T18:57:47+00:00",
+  "last_run": "2026-10-25T00:58:43+00:00",
   "ok": true,
   "detail": "checked JMA: no new reports; no alerts yet",
-  "last_ok": "2026-10-24T18:57:47+00:00"
+  "last_ok": "2026-10-25T00:58:43+00:00"
  }
 }
