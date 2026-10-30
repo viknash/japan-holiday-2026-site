@@ -1,5 +1,5 @@
 {
- "checked": "2026-10-25",
+ "checked": "2026-10-30",
  "places": {
   "Dazaifu Tenmangu Shrine": {
    "place_id": "ChIJzfvrKp-bQTURl65fp6vRJLg",
@@ -19428,6 +19428,69 @@
    "regular": [],
    "current": [],
    "fetched": "2026-10-25"
+  },
+  "Umagase Promenade Entrance": {
+   "place_id": "ChIJs_BSxdYTRzUReyCWDyEagiw",
+   "matched_name": "Umagase Promenade Entrance",
+   "distance_m": 0,
+   "status": "OPERATIONAL",
+   "uri": "https://maps.google.com/?cid=3207154613938954363&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "regular": [],
+   "current": [],
+   "fetched": "2026-10-30"
+  },
+  "Hososhima Lighthouse": {
+   "place_id": "ChIJES1X0aMVRzURdtZhwPMIEQc",
+   "matched_name": "Hososhima Lighthouse",
+   "distance_m": 0,
+   "status": "OPERATIONAL",
+   "uri": "https://maps.google.com/?cid=509198075867289206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "regular": [
+    {
+     "open": {
+      "day": 0,
+      "hour": 0,
+      "minute": 0
+     }
+    }
+   ],
+   "current": [
+    {
+     "open": {
+      "day": 5,
+      "hour": 0,
+      "minute": 0,
+      "truncated": true,
+      "date": {
+       "year": 2026,
+       "month": 10,
+       "day": 30
+      }
+     },
+     "close": {
+      "day": 4,
+      "hour": 23,
+      "minute": 59,
+      "truncated": true,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 5
+      }
+     }
+    }
+   ],
+   "fetched": "2026-10-30"
+  },
+  "Cape Hyuga Observation Deck": {
+   "place_id": "ChIJQXKa5DYTRzURV7rvUiYERkE",
+   "matched_name": "Cape Hyuga Observation Deck",
+   "distance_m": 0,
+   "status": "OPERATIONAL",
+   "uri": "https://maps.google.com/?cid=4703451423481772631&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "regular": [],
+   "current": [],
+   "fetched": "2026-10-30"
   }
  },
  "visits": {
@@ -19669,7 +19732,37 @@
     }
    ]
   },
-  "Day 5 - Sun 6 Dec: Nobeoka, Takachiho Gorge and on to Aso": {
+  "Day 5 - Sun 6 Dec: Nobeoka, Cape Hyuga, Takachiho Gorge and on to Aso": {
+   "Umagase Promenade Entrance": [
+    {
+     "date": "Sun 6 Dec",
+     "iso": "2026-12-06",
+     "text": "Opening hours not listed on Google (check the official site)",
+     "closed": false,
+     "unknown": true,
+     "source": "none"
+    }
+   ],
+   "Hososhima Lighthouse": [
+    {
+     "date": "Sun 6 Dec",
+     "iso": "2026-12-06",
+     "text": "Open 24 hours",
+     "closed": false,
+     "unknown": false,
+     "source": "weekly"
+    }
+   ],
+   "Cape Hyuga Observation Deck": [
+    {
+     "date": "Sun 6 Dec",
+     "iso": "2026-12-06",
+     "text": "Opening hours not listed on Google (check the official site)",
+     "closed": false,
+     "unknown": true,
+     "source": "none"
+    }
+   ],
    "Jokoji Waterfall": [
     {
      "date": "Sun 6 Dec",
