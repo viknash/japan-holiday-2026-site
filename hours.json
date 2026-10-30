@@ -19491,6 +19491,49 @@
    "regular": [],
    "current": [],
    "fetched": "2026-10-30"
+  },
+  "The Sea Cross Overlook": {
+   "place_id": "ChIJM8DyjQkURzURR6LnZgcaT0g",
+   "matched_name": "The Sea Cross Overlook",
+   "distance_m": 0,
+   "status": "OPERATIONAL",
+   "uri": "https://maps.google.com/?cid=5210411912984502855&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "regular": [
+    {
+     "open": {
+      "day": 0,
+      "hour": 0,
+      "minute": 0
+     }
+    }
+   ],
+   "current": [
+    {
+     "open": {
+      "day": 5,
+      "hour": 0,
+      "minute": 0,
+      "truncated": true,
+      "date": {
+       "year": 2026,
+       "month": 10,
+       "day": 30
+      }
+     },
+     "close": {
+      "day": 4,
+      "hour": 23,
+      "minute": 59,
+      "truncated": true,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 5
+      }
+     }
+    }
+   ],
+   "fetched": "2026-10-30"
   }
  },
  "visits": {
@@ -19733,6 +19776,16 @@
    ]
   },
   "Day 5 - Sun 6 Dec: Nobeoka, Cape Hyuga, Takachiho Gorge and on to Aso": {
+   "The Sea Cross Overlook": [
+    {
+     "date": "Sun 6 Dec",
+     "iso": "2026-12-06",
+     "text": "Open 24 hours",
+     "closed": false,
+     "unknown": false,
+     "source": "weekly"
+    }
+   ],
    "Umagase Promenade Entrance": [
     {
      "date": "Sun 6 Dec",
