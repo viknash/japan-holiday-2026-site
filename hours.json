@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-01",
+ "checked": "2026-11-03",
  "places": {
   "Dazaifu Tenmangu Shrine": {
    "place_id": "ChIJzfvrKp-bQTURl65fp6vRJLg",
@@ -3290,59 +3290,6 @@
      }
     }
    ],
-   "fetched": "2026-11-01"
-  },
-  "Kabutoiwa Scenic Overlook": {
-   "place_id": "ChIJL2lPlGshQTUR5tBxbfdx4ms",
-   "matched_name": "Kabutoiwa Scenic Overlook",
-   "distance_m": 0,
-   "status": "OPERATIONAL",
-   "uri": "https://maps.google.com/?cid=7773901214301933798&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
-   "regular": [
-    {
-     "open": {
-      "day": 0,
-      "hour": 0,
-      "minute": 0
-     }
-    }
-   ],
-   "current": [
-    {
-     "open": {
-      "day": 0,
-      "hour": 0,
-      "minute": 0,
-      "truncated": true,
-      "date": {
-       "year": 2026,
-       "month": 11,
-       "day": 1
-      }
-     },
-     "close": {
-      "day": 6,
-      "hour": 23,
-      "minute": 59,
-      "truncated": true,
-      "date": {
-       "year": 2026,
-       "month": 11,
-       "day": 7
-      }
-     }
-    }
-   ],
-   "fetched": "2026-11-01"
-  },
-  "Daikanbo Lookout": {
-   "place_id": "ChIJL2Yg60gkQTURZD0jL2gjPUo",
-   "matched_name": "Daikanbo Lookout",
-   "distance_m": 0,
-   "status": "",
-   "uri": "https://maps.google.com/?cid=5349470862760426852&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
-   "regular": [],
-   "current": [],
    "fetched": "2026-11-01"
   },
   "Nabegataki Falls": {
@@ -19556,6 +19503,16 @@
     }
    ],
    "fetched": "2026-11-01"
+  },
+  "Kurokawa Onsen": {
+   "place_id": "ChIJzUJBlOowQTURUBGnm484qQQ",
+   "matched_name": "Kurokawa Onsen",
+   "distance_m": 0,
+   "status": "",
+   "uri": "https://maps.google.com/?cid=335861836658708816&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "regular": [],
+   "current": [],
+   "fetched": "2026-11-03"
   }
  },
  "visits": {
@@ -19797,7 +19754,7 @@
     }
    ]
   },
-  "Day 5 - Sun 6 Dec: Nobeoka, Cape Hyuga, Takachiho Gorge and on to Aso": {
+  "Day 5 - Sun 6 Dec: Nobeoka, Cape Hyuga, Takachiho Gorge, Kurokawa Onsen and on to Aso": {
    "The Sea Cross Overlook": [
     {
      "date": "Sun 6 Dec",
@@ -19897,29 +19854,19 @@
      "unknown": false,
      "source": "weekly"
     }
-   ]
-  },
-  "Day 6 - Mon 7 Dec: Aso caldera rim, Oguni, the Kokonoe plateau and Yufuin to Beppu": {
-   "Kabutoiwa Scenic Overlook": [
-    {
-     "date": "Mon 7 Dec",
-     "iso": "2026-12-07",
-     "text": "Open 24 hours",
-     "closed": false,
-     "unknown": false,
-     "source": "weekly"
-    }
    ],
-   "Daikanbo Lookout": [
+   "Kurokawa Onsen": [
     {
-     "date": "Mon 7 Dec",
-     "iso": "2026-12-07",
+     "date": "Sun 6 Dec",
+     "iso": "2026-12-06",
      "text": "Opening hours not listed on Google (check the official site)",
      "closed": false,
      "unknown": true,
      "source": "none"
     }
-   ],
+   ]
+  },
+  "Day 6 - Mon 7 Dec: Oguni waterfalls, the Kokonoe plateau and Yufuin to Beppu": {
    "Nabegataki Falls": [
     {
      "date": "Mon 7 Dec",
