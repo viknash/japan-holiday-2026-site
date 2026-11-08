@@ -19538,26 +19538,6 @@
  },
  "visits": {
   "Day 1 - Wed 2 Dec: Land 07:35, then Dazaifu, Itoshima and Karatsu": {
-   "Dazaifu Tenmangu Shrine": [
-    {
-     "date": "Wed 2 Dec",
-     "iso": "2026-12-02",
-     "text": "06:00-19:00",
-     "closed": false,
-     "unknown": false,
-     "source": "weekly"
-    }
-   ],
-   "Kamado Shrine": [
-    {
-     "date": "Wed 2 Dec",
-     "iso": "2026-12-02",
-     "text": "08:30-18:00",
-     "closed": false,
-     "unknown": false,
-     "source": "weekly"
-    }
-   ],
    "Sakurai Futamigaura's Couple Stones": [
     {
      "date": "Wed 2 Dec",
@@ -20127,6 +20107,26 @@
      "date": "Wed 9 Dec",
      "iso": "2026-12-09",
      "text": "Open 24 hours",
+     "closed": false,
+     "unknown": false,
+     "source": "weekly"
+    }
+   ],
+   "Dazaifu Tenmangu Shrine": [
+    {
+     "date": "Wed 9 Dec",
+     "iso": "2026-12-09",
+     "text": "06:00-19:00",
+     "closed": false,
+     "unknown": false,
+     "source": "weekly"
+    }
+   ],
+   "Kamado Shrine": [
+    {
+     "date": "Wed 9 Dec",
+     "iso": "2026-12-09",
+     "text": "08:30-18:00",
      "closed": false,
      "unknown": false,
      "source": "weekly"
