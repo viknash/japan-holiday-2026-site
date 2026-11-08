@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-03",
+ "checked": "2026-11-09",
  "places": {
   "Dazaifu Tenmangu Shrine": {
    "place_id": "ChIJzfvrKp-bQTURl65fp6vRJLg",
@@ -17,7 +17,7 @@
      "close": {
       "day": 0,
       "hour": 19,
-      "minute": 30
+      "minute": 0
      }
     },
     {
@@ -29,7 +29,7 @@
      "close": {
       "day": 1,
       "hour": 19,
-      "minute": 30
+      "minute": 0
      }
     },
     {
@@ -41,7 +41,7 @@
      "close": {
       "day": 2,
       "hour": 19,
-      "minute": 30
+      "minute": 0
      }
     },
     {
@@ -53,7 +53,7 @@
      "close": {
       "day": 3,
       "hour": 19,
-      "minute": 30
+      "minute": 0
      }
     },
     {
@@ -65,7 +65,7 @@
      "close": {
       "day": 4,
       "hour": 19,
-      "minute": 30
+      "minute": 0
      }
     },
     {
@@ -77,7 +77,7 @@
      "close": {
       "day": 5,
       "hour": 19,
-      "minute": 30
+      "minute": 0
      }
     },
     {
@@ -89,7 +89,7 @@
      "close": {
       "day": 6,
       "hour": 19,
-      "minute": 30
+      "minute": 0
      }
     }
    ],
@@ -102,17 +102,17 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
       "day": 0,
       "hour": 19,
-      "minute": 30,
+      "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -124,17 +124,17 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
       "day": 1,
       "hour": 19,
-      "minute": 30,
+      "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -146,17 +146,17 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
       "day": 2,
       "hour": 19,
-      "minute": 30,
+      "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -168,17 +168,17 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
       "day": 3,
       "hour": 19,
-      "minute": 30,
+      "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -190,17 +190,17 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
       "day": 4,
       "hour": 19,
-      "minute": 30,
+      "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -212,17 +212,17 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
       "day": 5,
       "hour": 19,
-      "minute": 30,
+      "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -234,22 +234,22 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
       "day": 6,
       "hour": 19,
-      "minute": 30,
+      "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Kamado Shrine": {
    "place_id": "ChIJ_469vmKbQTURW7dK-mK7gBY",
@@ -352,7 +352,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -362,7 +362,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -374,7 +374,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -384,7 +384,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -396,7 +396,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -406,7 +406,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -418,7 +418,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -428,7 +428,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -440,7 +440,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -450,7 +450,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -462,7 +462,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -472,7 +472,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -484,7 +484,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -494,12 +494,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Sakurai Futamigaura's Couple Stones": {
    "place_id": "ChIJdZijMN3uQTURZk1DiKqs-Uc",
@@ -526,7 +526,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -537,12 +537,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Shiraito Waterfall Observation Deck": {
    "place_id": "ChIJiaL4dwDDQTURzGilwWORYbk",
@@ -552,7 +552,7 @@
    "uri": "https://maps.google.com/?cid=13358117827394234572&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Senjuin Waterfall": {
    "place_id": "ChIJr8dyUVfDQTURiwkN2VHSa0U",
@@ -579,7 +579,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -590,12 +590,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Kannon Falls": {
    "place_id": "ChIJ51ZmVLnaQTURb5baCczllsg",
@@ -674,7 +674,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -684,7 +684,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -696,7 +696,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -706,7 +706,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -718,7 +718,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -728,7 +728,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -740,7 +740,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -750,7 +750,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -762,7 +762,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -772,12 +772,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Karatsu Castle (suggested)": {
    "place_id": "ChIJk2WZ-3Z4ajURR_Cyd8NIKE0",
@@ -880,7 +880,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -890,7 +890,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -902,7 +902,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -912,7 +912,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -924,7 +924,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -934,7 +934,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -946,7 +946,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -956,7 +956,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -968,7 +968,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -978,7 +978,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -990,7 +990,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -1000,7 +1000,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -1012,7 +1012,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -1022,12 +1022,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Mikaeri No Taki Falls": {
    "place_id": "ChIJgbkxPzzUQTURb_CYVCiIn8E",
@@ -1054,7 +1054,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -1065,12 +1065,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "八女中央大茶園 Yame Central Tea Plantation": {
    "place_id": "ChIJLwtNU9anQTURkxWwEe7r5ns",
@@ -1080,7 +1080,7 @@
    "uri": "https://maps.google.com/?cid=8928082719040083347&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Akaishidani Falls": {
    "place_id": "ChIJ3X02-g4fQTURYwQO9ukD_N8",
@@ -1090,7 +1090,7 @@
    "uri": "https://maps.google.com/?cid=16139779467979392099&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Reimei Waterfall": {
    "place_id": "ChIJqVmQV3IfQTURsvmCDqcUEzI",
@@ -1117,7 +1117,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -1128,12 +1128,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Kikuchi Gorge": {
    "place_id": "ChIJXWdAkmYfQTUReR7lwMlCQtY",
@@ -1236,7 +1236,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -1246,7 +1246,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -1258,7 +1258,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -1268,7 +1268,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -1280,7 +1280,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -1290,7 +1290,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -1302,7 +1302,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -1312,7 +1312,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -1324,7 +1324,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -1334,7 +1334,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -1346,7 +1346,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -1356,7 +1356,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -1368,7 +1368,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -1378,12 +1378,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Hirokawara (Kikuchi Valley)": {
    "place_id": "ChIJQzJKADwfQTURuFn9_GaO-Uw",
@@ -1393,7 +1393,7 @@
    "uri": "https://maps.google.com/?cid=5546620989065746872&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Kumamoto Castle": {
    "place_id": "ChIJWco6Ag70QDURMOTNdshmi14",
@@ -1496,7 +1496,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -1506,7 +1506,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -1518,7 +1518,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -1528,7 +1528,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -1540,7 +1540,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -1550,7 +1550,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -1562,7 +1562,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -1572,7 +1572,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -1584,7 +1584,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -1594,7 +1594,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -1606,7 +1606,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -1616,7 +1616,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -1628,7 +1628,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -1638,12 +1638,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Sakuranobaba Josaien tourist information centre": {
    "place_id": "ChIJZ_prBdj1QDUR_mnsyHf76nQ",
@@ -1746,7 +1746,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -1756,7 +1756,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -1768,7 +1768,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -1778,7 +1778,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -1790,7 +1790,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -1800,7 +1800,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -1812,7 +1812,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -1822,7 +1822,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -1834,7 +1834,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -1844,7 +1844,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -1856,7 +1856,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -1866,7 +1866,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -1878,7 +1878,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -1888,12 +1888,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "鹿目の滝 駐車スペース": {
    "place_id": "ChIJhxziHwB1PzURo_hSrgRxBrg",
@@ -1903,7 +1903,7 @@
    "uri": "https://maps.google.com/?cid=13260410417757485219&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Cloth Waterfall": {
    "place_id": "ChIJvSXUdyNzPzUReJkqH2oQESw",
@@ -1930,7 +1930,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -1941,12 +1941,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Sogi Waterfall.": {
    "place_id": "ChIJy349HOmoPzURDX0fMyrSjeM",
@@ -1973,7 +1973,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -1984,12 +1984,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Ryumon Falls": {
    "place_id": "ChIJD8VxkOb4PjURvM2kTfjotz0",
@@ -2016,7 +2016,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -2027,12 +2027,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Sengan-en": {
    "place_id": "ChIJ4X7e7l5ePjURPwj6UsWmblk",
@@ -2135,7 +2135,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -2145,7 +2145,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -2157,7 +2157,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -2167,7 +2167,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -2179,7 +2179,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -2189,7 +2189,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -2201,7 +2201,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -2211,7 +2211,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -2223,7 +2223,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -2233,7 +2233,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -2245,7 +2245,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -2255,7 +2255,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -2267,7 +2267,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -2277,12 +2277,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Sakurajima Volcanic Shore Park and Footbath": {
    "place_id": "ChIJl0lTYTNePjUREUk61o5l5JU",
@@ -2385,7 +2385,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -2395,7 +2395,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -2407,7 +2407,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -2417,7 +2417,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -2429,7 +2429,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -2439,7 +2439,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -2451,7 +2451,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -2461,7 +2461,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -2473,7 +2473,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -2483,7 +2483,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -2495,7 +2495,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -2505,7 +2505,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -2517,7 +2517,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -2527,12 +2527,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Yunohira Observation Deck": {
    "place_id": "ChIJe72TBYZfPjURe32WlqPoJr4",
@@ -2559,7 +2559,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -2570,12 +2570,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Kirishima Factory Garden": {
    "place_id": "ChIJR24k1uAmPzUR_q6bUML0MKc",
@@ -2678,17 +2678,17 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
       "day": 0,
-      "hour": 16,
+      "hour": 21,
       "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -2700,7 +2700,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -2710,7 +2710,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -2722,17 +2722,17 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
       "day": 2,
-      "hour": 17,
+      "hour": 15,
       "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -2744,7 +2744,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -2754,7 +2754,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -2766,7 +2766,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -2776,7 +2776,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -2788,7 +2788,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -2798,7 +2798,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -2810,7 +2810,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -2820,12 +2820,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Jokoji Waterfall": {
    "place_id": "ChIJf1IA9TzWRjURaFJr7u61AOU",
@@ -2852,7 +2852,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -2863,12 +2863,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Ryūgaiwa Waterfall": {
    "place_id": "ChIJzyBO5F8qRzUR8T_TRR4ykSc",
@@ -2895,7 +2895,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -2906,12 +2906,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Takachiho Gorge": {
    "place_id": "ChIJLwml_t0sRzURix_JnSldeVg",
@@ -3014,7 +3014,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -3024,7 +3024,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -3036,7 +3036,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -3046,7 +3046,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -3058,7 +3058,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -3068,7 +3068,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -3080,7 +3080,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -3090,7 +3090,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -3102,7 +3102,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -3112,7 +3112,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -3124,7 +3124,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -3134,7 +3134,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -3146,7 +3146,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -3156,12 +3156,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Kamishikimi Kumanoza Shrine": {
    "place_id": "ChIJYaNe7szXQDURfseK99Yvd3U",
@@ -3188,7 +3188,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -3199,12 +3199,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Koga Falls": {
    "place_id": "ChIJFYB9ZJIoQTUR9KrxVehHRuw",
@@ -3231,7 +3231,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -3242,12 +3242,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Kusasenri Observatory": {
    "place_id": "ChIJK3oim8bYQDUR_3eqW7b_XcA",
@@ -3274,7 +3274,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -3285,12 +3285,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Nabegataki Falls": {
    "place_id": "ChIJCWqplwk8QTURoH7q2Y34zzM",
@@ -3393,7 +3393,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -3403,7 +3403,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -3415,7 +3415,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -3425,7 +3425,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -3437,7 +3437,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -3447,7 +3447,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -3459,7 +3459,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -3469,7 +3469,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -3481,7 +3481,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -3491,7 +3491,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -3503,7 +3503,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -3513,7 +3513,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -3525,7 +3525,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -3535,12 +3535,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Meoto Falls": {
    "place_id": "ChIJ49fhQ3E6QTUR6tGuCng-pFo",
@@ -3567,7 +3567,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -3578,12 +3578,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Kokonoe Yume Otsuribashi": {
    "place_id": "ChIJ8btCDUlKQTURKiVhK3GUU_0",
@@ -3686,7 +3686,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -3696,7 +3696,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -3708,7 +3708,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -3718,7 +3718,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -3730,7 +3730,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -3740,7 +3740,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -3752,7 +3752,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -3762,7 +3762,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -3774,7 +3774,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -3784,7 +3784,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -3796,7 +3796,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -3806,7 +3806,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -3818,7 +3818,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -3828,12 +3828,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Shindou Falls": {
    "place_id": "ChIJry59Kk9KQTUR5iiMlRf3rn8",
@@ -3860,7 +3860,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -3871,12 +3871,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Tengu Waterfall": {
    "place_id": "ChIJjfqJ1d5LQTUREdK1hFJYeG8",
@@ -3903,7 +3903,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -3914,12 +3914,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Kusuikei": {
    "place_id": "ChIJPfRUE0tKQTURylrgMu12e_c",
@@ -3946,7 +3946,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -3957,12 +3957,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Lake Kinrin": {
    "place_id": "ChIJa7QFnn2uRjUR5ofN82Ctd44",
@@ -3989,7 +3989,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -4000,12 +4000,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Chinda Falls": {
    "place_id": "ChIJ70gZOBTARjURZhUpYiafzb0",
@@ -4032,7 +4032,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -4043,12 +4043,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Harajiri Falls": {
    "place_id": "ChIJt3oNB_DFRjURx32ZnuvmoPI",
@@ -4075,7 +4075,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -4086,12 +4086,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Kōmori Falls Observatory": {
    "place_id": "ChIJuyX-iU7PRjUR-0rcxRgHCHc",
@@ -4118,7 +4118,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -4129,12 +4129,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Kamado Jigoku": {
    "place_id": "ChIJiVukIaOnRjURqERRv0ixdK8",
@@ -4237,7 +4237,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -4247,7 +4247,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -4259,7 +4259,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -4269,7 +4269,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -4281,7 +4281,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -4291,7 +4291,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -4303,7 +4303,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -4313,7 +4313,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -4325,7 +4325,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -4335,7 +4335,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -4347,7 +4347,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -4357,7 +4357,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -4369,7 +4369,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -4379,12 +4379,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Shiraike Jigoku": {
    "place_id": "ChIJ0S6DqKOnRjURKwF0ax1Xe_w",
@@ -4487,7 +4487,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -4497,7 +4497,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -4509,7 +4509,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -4519,7 +4519,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -4531,7 +4531,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -4541,7 +4541,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -4553,7 +4553,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -4563,7 +4563,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -4575,7 +4575,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -4585,7 +4585,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -4597,7 +4597,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -4607,7 +4607,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -4619,7 +4619,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -4629,12 +4629,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Chinoike Jigoku": {
    "place_id": "ChIJJYAEBIOnRjUR9AeooEwd1ck",
@@ -4737,7 +4737,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -4747,7 +4747,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -4759,7 +4759,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -4769,7 +4769,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -4781,7 +4781,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -4791,7 +4791,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -4803,7 +4803,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -4813,7 +4813,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -4825,7 +4825,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -4835,7 +4835,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -4847,7 +4847,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -4857,7 +4857,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -4869,7 +4869,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -4879,12 +4879,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Shidaka Lake": {
    "place_id": "ChIJi_AvHuWlRjURZf-W4ihuFh4",
@@ -4987,7 +4987,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -4997,7 +4997,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -5009,7 +5009,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -5019,7 +5019,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -5031,7 +5031,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -5041,7 +5041,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -5053,7 +5053,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -5063,7 +5063,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -5075,7 +5075,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -5085,7 +5085,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -5097,7 +5097,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -5107,7 +5107,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -5119,7 +5119,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -5129,12 +5129,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "神楽女湖しょうぶ園": {
    "place_id": "ChIJK5lCDI2lRjURmFRgM9YodNg",
@@ -5237,7 +5237,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -5247,7 +5247,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -5259,7 +5259,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -5269,7 +5269,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -5281,7 +5281,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -5291,7 +5291,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -5303,7 +5303,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -5313,7 +5313,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -5325,7 +5325,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -5335,7 +5335,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -5347,7 +5347,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -5357,7 +5357,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -5369,7 +5369,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -5379,12 +5379,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Mizunashi Waterfall.": {
    "place_id": "ChIJP_RPo6alRjURRczpD4EqY50",
@@ -5394,7 +5394,7 @@
    "uri": "https://maps.google.com/?cid=11340955020455169093&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Higashi Shiiya Falls": {
    "place_id": "ChIJ2--QpsSpRjURpItNWqoqGhI",
@@ -5421,7 +5421,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -5432,12 +5432,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Susaki Falls Observation Deck": {
    "place_id": "ChIJdedIcq2pRjUR0C2Q8dhb1xk",
@@ -5464,7 +5464,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -5475,12 +5475,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Amari Falls": {
    "place_id": "ChIJsbwnSvuqRjURhaXifAuefSM",
@@ -5507,7 +5507,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -5518,12 +5518,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Yo Shrine": {
    "place_id": "ChIJD3jq6VyrRjURrF1F_2t4dKU",
@@ -5533,7 +5533,7 @@
    "uri": "https://maps.google.com/?cid=11922286518796115372&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Aonodōmon": {
    "place_id": "ChIJ0bBOw038QzURqYnti0aFVxA",
@@ -5560,7 +5560,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -5571,12 +5571,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Hitome Hakkei Observation Deck": {
    "place_id": "ChIJzaswbiFRQTUR1ohMDPcMu-Q",
@@ -5603,7 +5603,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -5614,12 +5614,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Waterfall Jion": {
    "place_id": "ChIJwRMZDpFGQTURvVZQqO9DX8Q",
@@ -5646,7 +5646,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -5657,12 +5657,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Kuromon Rojiura Bakery (Tojinmachi, closed Tuesdays)": {
    "place_id": "ChIJZU7ZBkWTQTURyYnY6SzDwQU",
@@ -5753,7 +5753,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -5763,7 +5763,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -5775,7 +5775,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -5785,7 +5785,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -5797,7 +5797,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -5807,7 +5807,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -5819,7 +5819,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -5829,7 +5829,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -5841,7 +5841,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -5851,7 +5851,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -5863,7 +5863,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -5873,12 +5873,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Tenjin Underground Mall (Tenjin Chikagai, shops 10:00-20:00)": {
    "place_id": "ChIJ970Xo46RQTURm6GUmUJcn6Y",
@@ -5981,7 +5981,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -5991,7 +5991,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -6003,7 +6003,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -6013,7 +6013,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -6025,7 +6025,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -6035,7 +6035,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -6047,7 +6047,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -6057,7 +6057,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -6069,7 +6069,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -6079,7 +6079,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -6091,7 +6091,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -6101,7 +6101,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -6113,7 +6113,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -6123,12 +6123,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Kawabata Shopping Arcade": {
    "place_id": "ChIJiShWTeuRQTURqDhAzGV8sXw",
@@ -6207,7 +6207,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -6217,7 +6217,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -6229,7 +6229,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -6239,7 +6239,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -6251,7 +6251,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -6261,7 +6261,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -6273,7 +6273,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -6283,7 +6283,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -6295,7 +6295,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -6305,12 +6305,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Kushida Shrine": {
    "place_id": "ChIJV2pTquqRQTURpI1FhH5siaE",
@@ -6413,7 +6413,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -6423,7 +6423,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -6435,7 +6435,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -6445,7 +6445,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -6457,7 +6457,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -6467,7 +6467,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -6479,7 +6479,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -6489,7 +6489,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -6501,7 +6501,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -6511,7 +6511,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -6523,7 +6523,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -6533,7 +6533,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -6545,7 +6545,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -6555,12 +6555,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Life-Size RX-93ff 𝛎 Gundam Statue": {
    "place_id": "ChIJ4_0WFuiRQTURxlN32OlD-ck",
@@ -6587,7 +6587,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -6598,12 +6598,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Canal City Hakata (winter illumination after dark)": {
    "place_id": "ChIJYcOBiZWRQTUR0Rl0ehe67eA",
@@ -6706,7 +6706,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -6716,7 +6716,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -6728,7 +6728,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -6738,7 +6738,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -6750,7 +6750,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -6760,7 +6760,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -6772,7 +6772,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -6782,7 +6782,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -6794,7 +6794,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -6804,7 +6804,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -6816,7 +6816,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -6826,7 +6826,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -6838,7 +6838,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -6848,12 +6848,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Nakasu Yatai (open-air food stalls, izakaya street)": {
    "place_id": "ChIJZXHUV5SRQTURYdfj4ChdfPY",
@@ -6933,7 +6933,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -6943,7 +6943,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -6955,7 +6955,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -6965,7 +6965,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -6977,7 +6977,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -6987,7 +6987,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -6999,7 +6999,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -7009,7 +7009,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -7021,7 +7021,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -7031,7 +7031,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     },
@@ -7043,7 +7043,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -7054,12 +7054,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Hiroshima Orizuru Tower": {
    "place_id": "ChIJyz9bjQyiWjURHMzhMGEGw8Q",
@@ -7162,7 +7162,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -7172,7 +7172,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -7184,7 +7184,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -7194,7 +7194,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -7206,7 +7206,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -7216,7 +7216,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -7228,7 +7228,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -7238,7 +7238,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -7250,7 +7250,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -7260,7 +7260,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -7272,7 +7272,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -7282,7 +7282,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -7294,7 +7294,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -7304,12 +7304,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Atomic Bomb Dome": {
    "place_id": "ChIJqYAn2wyiWjURlsDG4Hpn5jQ",
@@ -7336,7 +7336,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -7347,12 +7347,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Hiroshima Peace Memorial Museum": {
    "place_id": "ChIJtyvayxKiWjURgIGSanFnMPE",
@@ -7455,7 +7455,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -7465,7 +7465,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -7477,7 +7477,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -7487,7 +7487,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -7499,7 +7499,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -7509,7 +7509,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -7521,7 +7521,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -7531,7 +7531,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -7543,7 +7543,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -7553,7 +7553,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -7565,7 +7565,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -7575,7 +7575,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -7587,7 +7587,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -7597,12 +7597,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Osaka Castle": {
    "place_id": "ChIJ_TooXM3gAGARQR6hXH3QAQ8",
@@ -7705,7 +7705,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -7715,7 +7715,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -7727,7 +7727,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -7737,7 +7737,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -7749,7 +7749,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -7759,7 +7759,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -7771,7 +7771,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -7781,7 +7781,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -7793,7 +7793,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -7803,7 +7803,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -7815,7 +7815,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -7825,7 +7825,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -7837,7 +7837,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -7847,12 +7847,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Dotonbori": {
    "place_id": "ChIJ_fmKgRPnAGARkKWLtCYTu7g",
@@ -7879,7 +7879,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -7890,12 +7890,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Shinsekai and Tsutenkaku Tower (suggested)": {
    "place_id": "ChIJ_0Lgd2DnAGARV0X03lbPy-U",
@@ -7998,7 +7998,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -8008,7 +8008,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -8020,7 +8020,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -8030,7 +8030,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -8042,7 +8042,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -8052,7 +8052,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -8064,7 +8064,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -8074,7 +8074,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -8086,7 +8086,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -8096,7 +8096,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -8108,7 +8108,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -8118,7 +8118,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -8130,7 +8130,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -8140,12 +8140,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Nunobiki Falls - Ontaki": {
    "place_id": "ChIJO45pYNqOAGAR4vmoQHxzRgg",
@@ -8172,7 +8172,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -8183,12 +8183,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Nunobiki Herb Gardens and Ropeway (suggested)": {
    "place_id": "ChIJWapiVtGOAGARVY9nvX-kXII",
@@ -8265,8 +8265,8 @@
      },
      "close": {
       "day": 5,
-      "hour": 16,
-      "minute": 45
+      "hour": 20,
+      "minute": 15
      }
     },
     {
@@ -8291,7 +8291,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -8301,7 +8301,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -8313,7 +8313,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -8323,7 +8323,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -8335,17 +8335,17 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
       "day": 2,
-      "hour": 20,
-      "minute": 15,
+      "hour": 16,
+      "minute": 45,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -8357,7 +8357,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -8367,7 +8367,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -8379,7 +8379,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -8389,7 +8389,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -8401,17 +8401,17 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
       "day": 5,
-      "hour": 16,
-      "minute": 45,
+      "hour": 20,
+      "minute": 15,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -8423,7 +8423,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -8433,12 +8433,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Kitano Ijinkan-gai (suggested)": {
    "place_id": "ChIJT6cViuCOAGARegX_ORkvbs0",
@@ -8541,7 +8541,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -8551,7 +8551,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -8563,7 +8563,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -8573,7 +8573,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -8585,7 +8585,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -8595,7 +8595,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -8607,7 +8607,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -8617,7 +8617,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -8629,7 +8629,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -8639,7 +8639,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -8651,7 +8651,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -8661,7 +8661,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -8673,7 +8673,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -8683,12 +8683,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Nankinmachi Chinatown (suggested)": {
    "place_id": "ChIJkaqwvf2OAGARARl_1gEYbx0",
@@ -8715,7 +8715,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -8726,12 +8726,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Kobe Port Tower and Harborland (suggested)": {
    "place_id": "ChIJD5fHbgePAGARpXshMiA87rA",
@@ -8834,7 +8834,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -8844,7 +8844,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -8856,7 +8856,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -8866,7 +8866,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -8878,7 +8878,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -8888,7 +8888,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -8900,7 +8900,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -8910,7 +8910,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -8922,7 +8922,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -8932,7 +8932,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -8944,7 +8944,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -8954,7 +8954,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -8966,7 +8966,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -8976,12 +8976,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Universal Studios Japan Arch Gate (security and entry; park opens about 09:00)": {
    "place_id": "ChIJV5YSfQDpAGART8K9ivWWf3c",
@@ -9084,7 +9084,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -9094,7 +9094,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -9106,7 +9106,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -9116,7 +9116,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -9128,7 +9128,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -9138,7 +9138,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -9150,7 +9150,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -9160,7 +9160,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -9172,7 +9172,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -9182,7 +9182,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -9194,7 +9194,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -9204,7 +9204,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -9216,7 +9216,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -9226,12 +9226,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Donkey Kong Country: Mine Cart Madness": {
    "place_id": "ChIJhYx7JwDpAGAR-XSlhtK0jIU",
@@ -9334,7 +9334,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -9344,7 +9344,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -9356,7 +9356,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -9366,7 +9366,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -9378,7 +9378,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -9388,7 +9388,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -9400,7 +9400,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -9410,7 +9410,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -9422,7 +9422,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -9432,7 +9432,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -9444,7 +9444,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -9454,7 +9454,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -9466,7 +9466,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -9476,12 +9476,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Mario Kart: Koopa's Challenge": {
    "place_id": "ChIJlYpf8CrpAGARDXyFHiCdxxI",
@@ -9584,7 +9584,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -9594,7 +9594,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -9606,7 +9606,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -9616,7 +9616,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -9628,7 +9628,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -9638,7 +9638,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -9650,7 +9650,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -9660,7 +9660,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -9672,7 +9672,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -9682,7 +9682,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -9694,7 +9694,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -9704,7 +9704,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -9716,7 +9716,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -9726,12 +9726,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Yoshi's Adventure": {
    "place_id": "ChIJz2dhPqXpAGAReBKtBT8e09o",
@@ -9834,7 +9834,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -9844,7 +9844,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -9856,7 +9856,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -9866,7 +9866,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -9878,7 +9878,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -9888,7 +9888,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -9900,7 +9900,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -9910,7 +9910,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -9922,7 +9922,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -9932,7 +9932,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -9944,7 +9944,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -9954,7 +9954,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -9966,7 +9966,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -9976,12 +9976,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Harry Potter and the Forbidden Journey": {
    "place_id": "ChIJGf38cC7pAGARQQhs6KAmJeU",
@@ -10084,7 +10084,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -10094,7 +10094,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -10106,7 +10106,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -10116,7 +10116,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -10128,7 +10128,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -10138,7 +10138,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -10150,7 +10150,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -10160,7 +10160,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -10172,7 +10172,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -10182,7 +10182,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -10194,7 +10194,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -10204,7 +10204,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -10216,7 +10216,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -10226,12 +10226,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Flight of the Hippogriff": {
    "place_id": "ChIJF3GaGJXoAGARJk-tInXkAKI",
@@ -10334,7 +10334,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -10344,7 +10344,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -10356,7 +10356,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -10366,7 +10366,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -10378,7 +10378,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -10388,7 +10388,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -10400,7 +10400,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -10410,7 +10410,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -10422,7 +10422,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -10432,7 +10432,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -10444,7 +10444,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -10454,7 +10454,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -10466,7 +10466,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -10476,12 +10476,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Ollivanders wand shop": {
    "place_id": "ChIJ2ZtcL5XoAGARqW8zFesFslE",
@@ -10584,7 +10584,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -10594,7 +10594,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -10606,7 +10606,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -10616,7 +10616,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -10628,7 +10628,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -10638,7 +10638,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -10650,7 +10650,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -10660,7 +10660,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -10672,7 +10672,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -10682,7 +10682,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -10694,7 +10694,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -10704,7 +10704,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -10716,7 +10716,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -10726,12 +10726,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "WaterWorld (live stunt show; check show times)": {
    "place_id": "ChIJN83i4eroAGAR4LpftoGRd38",
@@ -10741,7 +10741,7 @@
    "uri": "https://maps.google.com/?cid=9184969951341951712&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Jurassic Park: The Ride (you get wet)": {
    "place_id": "ChIJfwCksezoAGARjw6p5qIGXlg",
@@ -10844,7 +10844,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -10854,7 +10854,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -10866,7 +10866,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -10876,7 +10876,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -10888,7 +10888,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -10898,7 +10898,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -10910,7 +10910,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -10920,7 +10920,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -10932,7 +10932,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -10942,7 +10942,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -10954,7 +10954,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -10964,7 +10964,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -10976,7 +10976,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -10986,12 +10986,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Despicable Me: Minion Mayhem": {
    "place_id": "ChIJQ_G86JLoAGARrH8n3sXqOKw",
@@ -11094,7 +11094,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -11104,7 +11104,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -11116,7 +11116,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -11126,7 +11126,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -11138,7 +11138,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -11148,7 +11148,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -11160,7 +11160,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -11170,7 +11170,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -11182,7 +11182,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -11192,7 +11192,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -11204,7 +11204,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -11214,7 +11214,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -11226,7 +11226,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -11236,12 +11236,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Illumination's Villain-Con Minion Blast": {
    "place_id": "ChIJFciMMgDpAGARdp4olksN8h0",
@@ -11251,7 +11251,7 @@
    "uri": "https://maps.google.com/?cid=2157801789756841590&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Jaws": {
    "place_id": "ChIJGTUSsJToAGARvn9kQdQN_FY",
@@ -11354,7 +11354,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -11364,7 +11364,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -11376,7 +11376,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -11386,7 +11386,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -11398,7 +11398,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -11408,7 +11408,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -11420,7 +11420,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -11430,7 +11430,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -11442,7 +11442,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -11452,7 +11452,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -11464,7 +11464,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -11474,7 +11474,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -11486,7 +11486,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -11496,12 +11496,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Space Fantasy: The Ride (check: shown as temporarily closed)": {
    "place_id": "ChIJeegizpPoAGARYmWEi_QTzps",
@@ -11511,7 +11511,7 @@
    "uri": "https://maps.google.com/?cid=11226932862114882914&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Bubba Gump Shrimp Co. (Universal CityWalk Osaka, outside the park, dinner)": {
    "place_id": "ChIJ5REkyZboAGARGoFK6xN1MyM",
@@ -11528,7 +11528,7 @@
      },
      "close": {
       "day": 0,
-      "hour": 23,
+      "hour": 22,
       "minute": 0
      }
     },
@@ -11540,7 +11540,7 @@
      },
      "close": {
       "day": 1,
-      "hour": 23,
+      "hour": 22,
       "minute": 0
      }
     },
@@ -11552,7 +11552,7 @@
      },
      "close": {
       "day": 2,
-      "hour": 23,
+      "hour": 22,
       "minute": 0
      }
     },
@@ -11564,7 +11564,7 @@
      },
      "close": {
       "day": 3,
-      "hour": 23,
+      "hour": 22,
       "minute": 0
      }
     },
@@ -11576,7 +11576,7 @@
      },
      "close": {
       "day": 4,
-      "hour": 23,
+      "hour": 22,
       "minute": 0
      }
     },
@@ -11588,7 +11588,7 @@
      },
      "close": {
       "day": 5,
-      "hour": 23,
+      "hour": 22,
       "minute": 0
      }
     },
@@ -11600,7 +11600,7 @@
      },
      "close": {
       "day": 6,
-      "hour": 23,
+      "hour": 22,
       "minute": 0
      }
     }
@@ -11614,17 +11614,17 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
       "day": 0,
-      "hour": 23,
+      "hour": 22,
       "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -11636,17 +11636,17 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
       "day": 1,
-      "hour": 23,
+      "hour": 22,
       "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -11658,17 +11658,17 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
       "day": 2,
-      "hour": 23,
+      "hour": 22,
       "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -11680,17 +11680,17 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
       "day": 3,
-      "hour": 23,
+      "hour": 22,
       "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -11702,17 +11702,17 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
       "day": 4,
-      "hour": 23,
+      "hour": 22,
       "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -11724,17 +11724,17 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
       "day": 5,
-      "hour": 23,
+      "hour": 22,
       "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -11746,22 +11746,22 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
       "day": 6,
-      "hour": 23,
+      "hour": 22,
       "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Arashiyama Bamboo Forest": {
    "place_id": "ChIJrYtcv-urAWAR3XzWvXv8n_s",
@@ -11788,7 +11788,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -11799,12 +11799,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Kinkaku-ji": {
    "place_id": "ChIJvUbrwCCoAWARX2QiHCsn5A4",
@@ -11907,7 +11907,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -11917,7 +11917,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -11929,7 +11929,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -11939,7 +11939,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -11951,7 +11951,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -11961,7 +11961,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -11973,7 +11973,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -11983,7 +11983,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -11995,7 +11995,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -12005,7 +12005,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -12017,7 +12017,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -12027,7 +12027,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -12039,7 +12039,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -12049,12 +12049,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Nijō Castle": {
    "place_id": "ChIJC5srCtQHAWARLy9qkFmHaxA",
@@ -12157,7 +12157,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -12167,7 +12167,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -12179,7 +12179,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -12189,7 +12189,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -12201,7 +12201,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -12211,7 +12211,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -12223,7 +12223,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -12233,7 +12233,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -12245,7 +12245,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -12255,7 +12255,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -12267,7 +12267,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -12277,7 +12277,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -12289,7 +12289,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -12299,12 +12299,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "To-ji Temple": {
    "place_id": "ChIJTar7hQQGAWAREHkXsNkt7tM",
@@ -12407,7 +12407,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -12417,7 +12417,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -12429,7 +12429,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -12439,7 +12439,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -12451,7 +12451,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -12461,7 +12461,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -12473,7 +12473,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -12483,7 +12483,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -12495,7 +12495,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -12505,7 +12505,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -12517,7 +12517,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -12527,7 +12527,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -12539,7 +12539,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -12549,12 +12549,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Nanzen-ji": {
    "place_id": "ChIJ_fuXcyEJAWARTQDnx6Q5szg",
@@ -12657,7 +12657,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -12667,7 +12667,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -12679,7 +12679,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -12689,7 +12689,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -12701,7 +12701,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -12711,7 +12711,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -12723,7 +12723,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -12733,7 +12733,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -12745,7 +12745,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -12755,7 +12755,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -12767,7 +12767,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -12777,7 +12777,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -12789,7 +12789,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -12799,12 +12799,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Ginkaku-ji": {
    "place_id": "ChIJ4W9CCwUJAWARyauI6BzKiiU",
@@ -12907,7 +12907,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -12917,7 +12917,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -12929,7 +12929,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -12939,7 +12939,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -12951,7 +12951,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -12961,7 +12961,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -12973,7 +12973,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -12983,7 +12983,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -12995,7 +12995,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -13005,7 +13005,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -13017,7 +13017,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -13027,7 +13027,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -13039,7 +13039,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -13049,12 +13049,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Nintendo Museum": {
    "place_id": "ChIJ04cwuIgRAWARTSu2aErfb2Q",
@@ -13145,7 +13145,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -13155,7 +13155,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -13167,7 +13167,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -13177,7 +13177,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -13189,7 +13189,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -13199,7 +13199,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -13211,7 +13211,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -13221,7 +13221,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -13233,7 +13233,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -13243,7 +13243,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -13255,7 +13255,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -13265,12 +13265,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Nakatanidou": {
    "place_id": "ChIJmzwHEog5AWARiML9vXtSFso",
@@ -13361,7 +13361,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -13371,7 +13371,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -13383,7 +13383,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -13393,7 +13393,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -13405,7 +13405,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -13415,7 +13415,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -13427,7 +13427,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -13437,7 +13437,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -13449,7 +13449,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -13459,7 +13459,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -13471,7 +13471,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -13481,12 +13481,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Kōfuku-ji": {
    "place_id": "ChIJs-w9sog5AWARk0WDN0cPgxE",
@@ -13589,7 +13589,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -13599,7 +13599,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -13611,7 +13611,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -13621,7 +13621,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -13633,7 +13633,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -13643,7 +13643,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -13655,7 +13655,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -13665,7 +13665,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -13677,7 +13677,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -13687,7 +13687,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -13699,7 +13699,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -13709,7 +13709,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -13721,7 +13721,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -13731,12 +13731,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Deer Park (Nara Park)": {
    "place_id": "ChIJSSdpKr45AWARs3kLilG3sEs",
@@ -13746,7 +13746,7 @@
    "uri": "https://maps.google.com/?cid=5454060709581912499&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Kasugataisha Shrine": {
    "place_id": "ChIJ1Wqwa8A5AWARlpXjgoPnl0w",
@@ -13849,7 +13849,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -13859,7 +13859,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -13871,7 +13871,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -13881,7 +13881,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -13893,7 +13893,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -13903,7 +13903,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -13915,7 +13915,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -13925,7 +13925,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -13937,7 +13937,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -13947,7 +13947,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -13959,7 +13959,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -13969,7 +13969,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -13981,7 +13981,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -13991,12 +13991,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Mizuya Chaya": {
    "place_id": "ChIJj9LYfJU5AWARbAtuh3oHDSc",
@@ -14075,7 +14075,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -14085,7 +14085,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -14097,7 +14097,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -14107,7 +14107,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -14119,7 +14119,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -14129,7 +14129,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -14141,7 +14141,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -14151,7 +14151,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -14163,7 +14163,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -14173,12 +14173,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Nandaimon Gate": {
    "place_id": "ChIJ6XAV-ZA5AWAREBHjJdslKoA",
@@ -14205,7 +14205,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -14216,12 +14216,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Tōdai-ji": {
    "place_id": "ChIJ3XYIepA5AWARjzzVnT-skPg",
@@ -14324,7 +14324,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -14334,7 +14334,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -14346,7 +14346,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -14356,7 +14356,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -14368,7 +14368,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -14378,7 +14378,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -14390,7 +14390,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -14400,7 +14400,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -14412,7 +14412,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -14422,7 +14422,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -14434,7 +14434,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -14444,7 +14444,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -14456,7 +14456,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -14466,12 +14466,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Isuien Garden and Neiraku Museum": {
    "place_id": "ChIJc31a-Y85AWARo70kM5pXEVo",
@@ -14562,7 +14562,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -14572,7 +14572,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -14584,7 +14584,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -14594,7 +14594,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -14606,7 +14606,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -14616,7 +14616,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -14628,7 +14628,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -14638,7 +14638,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -14650,7 +14650,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -14660,7 +14660,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -14672,7 +14672,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -14682,12 +14682,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Yoshikien Garden": {
    "place_id": "ChIJVVXR5I85AWARNCgUmaCemHE",
@@ -14790,7 +14790,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -14800,7 +14800,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -14812,7 +14812,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -14822,7 +14822,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -14834,7 +14834,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -14844,7 +14844,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -14856,7 +14856,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -14866,7 +14866,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -14878,7 +14878,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -14888,7 +14888,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -14900,7 +14900,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -14910,7 +14910,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -14922,7 +14922,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -14932,12 +14932,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Shiraito Falls": {
    "place_id": "ChIJTa6BAO7aG2ARo2W6w446Kgk",
@@ -14964,7 +14964,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -14975,12 +14975,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Otodome Falls": {
    "place_id": "ChIJTa6BAO7aG2ARo2W6w446Kgk",
@@ -15007,7 +15007,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -15018,12 +15018,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Fuji Milk Land (Asagiri Plateau, Mt Fuji views)": {
    "place_id": "ChIJRzUkrnbbG2ARAw8-4PZX6cM",
@@ -15126,7 +15126,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -15136,7 +15136,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -15148,7 +15148,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -15158,7 +15158,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -15170,7 +15170,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -15180,7 +15180,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -15192,7 +15192,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -15202,7 +15202,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -15214,7 +15214,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -15224,7 +15224,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -15236,7 +15236,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -15246,7 +15246,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -15258,7 +15258,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -15268,12 +15268,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Fujisan Hongu Sengen Taisha": {
    "place_id": "ChIJE_h8kefUG2ARt84QZaZLCNg",
@@ -15376,7 +15376,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -15386,7 +15386,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -15398,7 +15398,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -15408,7 +15408,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -15420,7 +15420,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -15430,7 +15430,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -15442,7 +15442,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -15452,7 +15452,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -15464,7 +15464,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -15474,7 +15474,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -15486,7 +15486,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -15496,7 +15496,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -15508,7 +15508,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -15518,12 +15518,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Ueno Zoological Gardens": {
    "place_id": "ChIJf2129yiMGGAR9I6Yoe-1uHY",
@@ -15614,7 +15614,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -15624,7 +15624,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -15636,7 +15636,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -15646,7 +15646,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -15658,7 +15658,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -15668,7 +15668,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -15680,7 +15680,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -15690,7 +15690,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -15702,7 +15702,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -15712,7 +15712,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -15724,7 +15724,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -15734,12 +15734,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Tokyo National Museum and Ueno Park (suggested)": {
    "place_id": "ChIJEX3XFIOOGGAR3XdJvRjWLyM",
@@ -15830,39 +15830,17 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
       "day": 0,
-      "hour": 20,
+      "hour": 17,
       "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
-      }
-     }
-    },
-    {
-     "open": {
-      "day": 1,
-      "hour": 9,
-      "minute": 30,
-      "date": {
-       "year": 2026,
-       "month": 11,
-       "day": 2
-      }
-     },
-     "close": {
-      "day": 1,
-      "hour": 20,
-      "minute": 0,
-      "date": {
-       "year": 2026,
-       "month": 11,
-       "day": 2
+       "day": 8
       }
      }
     },
@@ -15874,7 +15852,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -15884,7 +15862,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -15896,7 +15874,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -15906,7 +15884,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -15918,7 +15896,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -15928,7 +15906,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -15940,7 +15918,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -15950,7 +15928,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -15962,7 +15940,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -15972,12 +15950,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Ameyoko market (suggested)": {
    "place_id": "ChIJh7eDrwCPGGARCs9fpCkKS2U",
@@ -15987,7 +15965,7 @@
    "uri": "https://maps.google.com/?cid=7298938795051699978&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Kanemori Red Brick Warehouse (suggested)": {
    "place_id": "ChIJo1BfeKjznl8R-KEsd6JreQ4",
@@ -16090,7 +16068,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -16100,7 +16078,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -16112,7 +16090,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -16122,7 +16100,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -16134,7 +16112,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -16144,7 +16122,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -16156,7 +16134,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -16166,7 +16144,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -16178,7 +16156,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -16188,7 +16166,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -16200,7 +16178,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -16210,7 +16188,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -16222,7 +16200,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -16232,12 +16210,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Hachimanzaka and Motomachi (suggested)": {
    "place_id": "ChIJT_xUJ6rznl8RXrmIZ5nBJjY",
@@ -16264,7 +16242,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -16275,12 +16253,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Mt Hakodate Ropeway and night view (suggested)": {
    "place_id": "ChIJ3y9gWwDznl8RQN0L-QFS-qY",
@@ -16290,7 +16268,7 @@
    "uri": "https://maps.google.com/?cid=12032019522900450624&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Hakodate Morning Market (suggested)": {
    "place_id": "ChIJ9Th38KHznl8RlR8a2ny1fuQ",
@@ -16393,7 +16371,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -16403,7 +16381,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -16415,7 +16393,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -16425,7 +16403,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -16437,7 +16415,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -16447,7 +16425,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -16459,7 +16437,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -16469,7 +16447,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -16481,7 +16459,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -16491,7 +16469,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -16503,7 +16481,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -16513,7 +16491,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -16525,7 +16503,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -16535,12 +16513,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Goryokaku Tower and Park (suggested)": {
    "place_id": "ChIJsw48tWv0nl8RnqjxKCD49XU",
@@ -16643,7 +16621,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -16653,7 +16631,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -16665,7 +16643,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -16675,7 +16653,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -16687,7 +16665,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -16697,7 +16675,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -16709,7 +16687,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -16719,7 +16697,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -16731,7 +16709,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -16741,7 +16719,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -16753,7 +16731,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -16763,7 +16741,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -16775,7 +16753,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -16785,12 +16763,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Hokkaido Jingu shrine and Maruyama Park (suggested)": {
    "place_id": "ChIJk6jwxNwpC18RCNdmWzXijew",
@@ -16893,7 +16871,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -16903,7 +16881,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -16915,7 +16893,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -16925,7 +16903,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -16937,7 +16915,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -16947,7 +16925,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -16959,7 +16937,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -16969,7 +16947,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -16981,7 +16959,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -16991,7 +16969,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -17003,7 +16981,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -17013,7 +16991,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -17025,7 +17003,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -17035,12 +17013,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Sapporo Beer Museum (suggested)": {
    "place_id": "ChIJ0fYsL4QpC18Ry-fF7_rGYBM",
@@ -17143,7 +17121,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -17153,7 +17131,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -17165,7 +17143,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -17175,7 +17153,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -17187,7 +17165,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -17197,7 +17175,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -17209,7 +17187,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -17219,7 +17197,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -17231,7 +17209,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -17241,7 +17219,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -17253,7 +17231,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -17263,7 +17241,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -17275,7 +17253,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -17285,12 +17263,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Sapporo Clock Tower (suggested)": {
    "place_id": "ChIJR3JQJ3YpC18R680ES0qomxs",
@@ -17393,7 +17371,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -17403,7 +17381,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -17415,7 +17393,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -17425,7 +17403,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -17437,7 +17415,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -17447,7 +17425,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -17459,7 +17437,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -17469,7 +17447,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -17481,7 +17459,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -17491,7 +17469,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -17503,7 +17481,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -17513,7 +17491,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -17525,7 +17503,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -17535,12 +17513,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Odori Park (suggested)": {
    "place_id": "ChIJKdPFSFEpC18RnuAg7TaybA4",
@@ -17567,7 +17545,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -17578,12 +17556,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Sapporo TV Tower (suggested)": {
    "place_id": "ChIJjWSHX50pC18RMSAiw3gaBOI",
@@ -17686,7 +17664,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -17696,7 +17674,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -17708,7 +17686,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -17718,7 +17696,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -17730,7 +17708,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -17740,7 +17718,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -17752,7 +17730,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -17762,7 +17740,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -17774,7 +17752,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -17784,7 +17762,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -17796,7 +17774,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -17806,7 +17784,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -17818,7 +17796,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -17828,12 +17806,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Noboribetsu Jigokudani (Hell Valley)": {
    "place_id": "ChIJ___jisJmdV8RzL7_3Cqwtcc",
@@ -17860,7 +17838,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -17871,12 +17849,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Lake Toya Onsen Town (lunch, free time)": {
    "place_id": "ChIJD8YbU7zin18ROBmpoxi6q20",
@@ -17886,7 +17864,7 @@
    "uri": "https://maps.google.com/?cid=7902614586139416888&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Toya Silo Observation Deck": {
    "place_id": "ChIJwVanrk9WdV8Rl0Q6ktSJrPk",
@@ -17989,7 +17967,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -17999,7 +17977,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -18011,7 +17989,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -18021,7 +17999,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -18033,7 +18011,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -18043,7 +18021,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -18055,7 +18033,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -18065,7 +18043,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -18077,7 +18055,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -18087,7 +18065,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -18099,7 +18077,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -18109,7 +18087,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -18121,7 +18099,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -18131,12 +18109,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Niseko Takahashi Farm": {
    "place_id": "ChIJO72qL8CvCl8RCD79oSW_yOE",
@@ -18148,85 +18126,85 @@
     {
      "open": {
       "day": 0,
-      "hour": 9,
-      "minute": 30
+      "hour": 10,
+      "minute": 0
      },
      "close": {
       "day": 0,
-      "hour": 18,
-      "minute": 0
+      "hour": 17,
+      "minute": 30
      }
     },
     {
      "open": {
       "day": 1,
-      "hour": 9,
-      "minute": 30
+      "hour": 10,
+      "minute": 0
      },
      "close": {
       "day": 1,
-      "hour": 18,
-      "minute": 0
+      "hour": 17,
+      "minute": 30
      }
     },
     {
      "open": {
       "day": 2,
-      "hour": 9,
-      "minute": 30
+      "hour": 10,
+      "minute": 0
      },
      "close": {
       "day": 2,
-      "hour": 18,
-      "minute": 0
+      "hour": 17,
+      "minute": 30
      }
     },
     {
      "open": {
       "day": 3,
-      "hour": 9,
-      "minute": 30
+      "hour": 10,
+      "minute": 0
      },
      "close": {
       "day": 3,
-      "hour": 18,
-      "minute": 0
+      "hour": 17,
+      "minute": 30
      }
     },
     {
      "open": {
       "day": 4,
-      "hour": 9,
-      "minute": 30
+      "hour": 10,
+      "minute": 0
      },
      "close": {
       "day": 4,
-      "hour": 18,
-      "minute": 0
+      "hour": 17,
+      "minute": 30
      }
     },
     {
      "open": {
       "day": 5,
-      "hour": 9,
-      "minute": 30
+      "hour": 10,
+      "minute": 0
      },
      "close": {
       "day": 5,
-      "hour": 18,
-      "minute": 0
+      "hour": 17,
+      "minute": 30
      }
     },
     {
      "open": {
       "day": 6,
-      "hour": 9,
-      "minute": 30
+      "hour": 10,
+      "minute": 0
      },
      "close": {
       "day": 6,
-      "hour": 18,
-      "minute": 0
+      "hour": 17,
+      "minute": 30
      }
     }
    ],
@@ -18234,159 +18212,159 @@
     {
      "open": {
       "day": 0,
-      "hour": 9,
-      "minute": 30,
+      "hour": 10,
+      "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
       "day": 0,
-      "hour": 18,
-      "minute": 0,
+      "hour": 17,
+      "minute": 30,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
     {
      "open": {
       "day": 1,
-      "hour": 9,
-      "minute": 30,
+      "hour": 10,
+      "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
       "day": 1,
-      "hour": 18,
-      "minute": 0,
+      "hour": 17,
+      "minute": 30,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
     {
      "open": {
       "day": 2,
-      "hour": 9,
-      "minute": 30,
+      "hour": 10,
+      "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
       "day": 2,
-      "hour": 18,
-      "minute": 0,
+      "hour": 17,
+      "minute": 30,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
     {
      "open": {
       "day": 3,
-      "hour": 9,
-      "minute": 30,
+      "hour": 10,
+      "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
       "day": 3,
-      "hour": 18,
-      "minute": 0,
+      "hour": 17,
+      "minute": 30,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
     {
      "open": {
       "day": 4,
-      "hour": 9,
-      "minute": 30,
+      "hour": 10,
+      "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
       "day": 4,
-      "hour": 18,
-      "minute": 0,
+      "hour": 17,
+      "minute": 30,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
     {
      "open": {
       "day": 5,
-      "hour": 9,
-      "minute": 30,
-      "date": {
-       "year": 2026,
-       "month": 11,
-       "day": 6
-      }
-     },
-     "close": {
-      "day": 5,
-      "hour": 18,
+      "hour": 10,
       "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
+      }
+     },
+     "close": {
+      "day": 5,
+      "hour": 17,
+      "minute": 30,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 13
       }
      }
     },
     {
      "open": {
       "day": 6,
-      "hour": 9,
-      "minute": 30,
-      "date": {
-       "year": 2026,
-       "month": 11,
-       "day": 7
-      }
-     },
-     "close": {
-      "day": 6,
-      "hour": 18,
+      "hour": 10,
       "minute": 0,
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
+      }
+     },
+     "close": {
+      "day": 6,
+      "hour": 17,
+      "minute": 30,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Lawson Niseko Hirafu (Mt Yotei viewpoint)": {
    "place_id": "ChIJ_U3vmhKwCl8RgF4-j-SJyoM",
@@ -18489,7 +18467,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -18499,7 +18477,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -18511,7 +18489,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -18521,7 +18499,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -18533,7 +18511,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -18543,7 +18521,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -18555,7 +18533,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -18565,7 +18543,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -18577,7 +18555,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -18587,7 +18565,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -18599,7 +18577,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -18609,7 +18587,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -18621,7 +18599,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -18631,12 +18609,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Shirogane Blue Pond (Aoiike)": {
    "place_id": "ChIJbyoi3mLMDF8RnndLnx8YzQQ",
@@ -18739,7 +18717,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -18749,7 +18727,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -18761,7 +18739,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -18771,7 +18749,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -18783,7 +18761,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -18793,7 +18771,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -18805,7 +18783,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -18815,7 +18793,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -18827,7 +18805,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -18837,7 +18815,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -18849,7 +18827,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -18859,7 +18837,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -18871,7 +18849,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -18881,12 +18859,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Sapporo Teine, Olympia zone (rental, tickets, a full ski day)": {
    "place_id": "ChIJLRLJ7xfYCl8R_MltyFlEiys",
@@ -18989,7 +18967,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -18999,7 +18977,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -19011,7 +18989,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -19021,7 +18999,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -19033,7 +19011,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -19043,7 +19021,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -19055,7 +19033,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -19065,7 +19043,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -19077,7 +19055,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -19087,7 +19065,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -19099,7 +19077,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -19109,7 +19087,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -19121,7 +19099,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -19131,12 +19109,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "JR Tower Observation Deck T38 (suggested)": {
    "place_id": "ChIJqU_V3HQpC18RBd_rZ_cUqCw",
@@ -19239,7 +19217,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -19249,7 +19227,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      }
     },
@@ -19261,7 +19239,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      },
      "close": {
@@ -19271,7 +19249,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 2
+       "day": 9
       }
      }
     },
@@ -19283,7 +19261,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      },
      "close": {
@@ -19293,7 +19271,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 3
+       "day": 10
       }
      }
     },
@@ -19305,7 +19283,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      },
      "close": {
@@ -19315,7 +19293,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 4
+       "day": 11
       }
      }
     },
@@ -19327,7 +19305,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      },
      "close": {
@@ -19337,7 +19315,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 5
+       "day": 12
       }
      }
     },
@@ -19349,7 +19327,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      },
      "close": {
@@ -19359,7 +19337,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 6
+       "day": 13
       }
      }
     },
@@ -19371,7 +19349,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      },
      "close": {
@@ -19381,12 +19359,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Tanukikoji shopping arcade (suggested)": {
    "place_id": "ChIJyWjcFIMpC18RoRfh7HqDCT4",
@@ -19396,7 +19374,7 @@
    "uri": "https://maps.google.com/?cid=4470248669125351329&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Umagase Promenade Entrance": {
    "place_id": "ChIJs_BSxdYTRzUReyCWDyEagiw",
@@ -19406,7 +19384,7 @@
    "uri": "https://maps.google.com/?cid=3207154613938954363&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Hososhima Lighthouse": {
    "place_id": "ChIJES1X0aMVRzURdtZhwPMIEQc",
@@ -19433,7 +19411,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -19444,12 +19422,12 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Cape Hyuga Observation Deck": {
    "place_id": "ChIJQXKa5DYTRzURV7rvUiYERkE",
@@ -19459,7 +19437,7 @@
    "uri": "https://maps.google.com/?cid=4703451423481772631&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "The Sea Cross Overlook": {
    "place_id": "ChIJM8DyjQkURzURR6LnZgcaT0g",
@@ -19486,7 +19464,7 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 1
+       "day": 8
       }
      },
      "close": {
@@ -19497,22 +19475,65 @@
       "date": {
        "year": 2026,
        "month": 11,
-       "day": 7
+       "day": 14
       }
      }
     }
    ],
-   "fetched": "2026-11-01"
+   "fetched": "2026-11-08"
   },
   "Kurokawa Onsen": {
    "place_id": "ChIJzUJBlOowQTURUBGnm484qQQ",
    "matched_name": "Kurokawa Onsen",
    "distance_m": 0,
    "status": "",
-   "uri": "https://maps.google.com/?cid=335861836658708816&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "uri": "https://maps.google.com/?cid=335861836658708816&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
    "regular": [],
    "current": [],
-   "fetched": "2026-11-03"
+   "fetched": "2026-11-08"
+  },
+  "Devil's Washboard": {
+   "place_id": "ChIJCYG7aKnHODURnJmv_QomSLc",
+   "matched_name": "Devil's Washboard",
+   "distance_m": 0,
+   "status": "OPERATIONAL",
+   "uri": "https://maps.google.com/?cid=13206847735911651740&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "regular": [
+    {
+     "open": {
+      "day": 0,
+      "hour": 0,
+      "minute": 0
+     }
+    }
+   ],
+   "current": [
+    {
+     "open": {
+      "day": 1,
+      "hour": 0,
+      "minute": 0,
+      "truncated": true,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 9
+      }
+     },
+     "close": {
+      "day": 0,
+      "hour": 23,
+      "minute": 59,
+      "truncated": true,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 15
+      }
+     }
+    }
+   ],
+   "fetched": "2026-11-09"
   }
  },
  "visits": {
@@ -19521,7 +19542,7 @@
     {
      "date": "Wed 2 Dec",
      "iso": "2026-12-02",
-     "text": "06:00-19:30",
+     "text": "06:00-19:00",
      "closed": false,
      "unknown": false,
      "source": "weekly"
@@ -19748,6 +19769,16 @@
      "date": "Sat 5 Dec",
      "iso": "2026-12-05",
      "text": "09:00-21:00",
+     "closed": false,
+     "unknown": false,
+     "source": "weekly"
+    }
+   ],
+   "Devil's Washboard": [
+    {
+     "date": "Sat 5 Dec",
+     "iso": "2026-12-05",
+     "text": "Open 24 hours",
      "closed": false,
      "unknown": false,
      "source": "weekly"
@@ -20425,7 +20456,7 @@
     {
      "date": "Mon 14 Dec",
      "iso": "2026-12-14",
-     "text": "11:00-23:00",
+     "text": "11:00-22:00",
      "closed": false,
      "unknown": false,
      "source": "weekly"
@@ -21005,7 +21036,7 @@
     {
      "date": "Tue 22 Dec",
      "iso": "2026-12-22",
-     "text": "09:30-18:00",
+     "text": "10:00-17:30",
      "closed": false,
      "unknown": false,
      "source": "weekly"
@@ -21013,7 +21044,7 @@
     {
      "date": "Wed 23 Dec",
      "iso": "2026-12-23",
-     "text": "09:30-18:00",
+     "text": "10:00-17:30",
      "closed": false,
      "unknown": false,
      "source": "weekly"
@@ -21021,7 +21052,7 @@
     {
      "date": "Thu 24 Dec",
      "iso": "2026-12-24",
-     "text": "09:30-18:00",
+     "text": "10:00-17:30",
      "closed": false,
      "unknown": false,
      "source": "weekly"
@@ -21029,7 +21060,7 @@
     {
      "date": "Fri 25 Dec",
      "iso": "2026-12-25",
-     "text": "09:30-18:00",
+     "text": "10:00-17:30",
      "closed": false,
      "unknown": false,
      "source": "weekly"
