@@ -19534,11 +19534,637 @@
     }
    ],
    "fetched": "2026-11-09"
+  },
+  "London Bus Cafe": {
+   "place_id": "ChIJ-yepx5PoQTURlwc4zwtk52o",
+   "matched_name": "LONDON BUS CAFE",
+   "distance_m": 0,
+   "status": "OPERATIONAL",
+   "uri": "https://maps.google.com/?cid=7703235689524496279&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "regular": [
+    {
+     "open": {
+      "day": 0,
+      "hour": 11,
+      "minute": 0
+     },
+     "close": {
+      "day": 0,
+      "hour": 17,
+      "minute": 0
+     }
+    },
+    {
+     "open": {
+      "day": 1,
+      "hour": 10,
+      "minute": 0
+     },
+     "close": {
+      "day": 1,
+      "hour": 17,
+      "minute": 0
+     }
+    },
+    {
+     "open": {
+      "day": 2,
+      "hour": 10,
+      "minute": 0
+     },
+     "close": {
+      "day": 2,
+      "hour": 17,
+      "minute": 0
+     }
+    },
+    {
+     "open": {
+      "day": 3,
+      "hour": 10,
+      "minute": 0
+     },
+     "close": {
+      "day": 3,
+      "hour": 17,
+      "minute": 0
+     }
+    },
+    {
+     "open": {
+      "day": 4,
+      "hour": 10,
+      "minute": 0
+     },
+     "close": {
+      "day": 4,
+      "hour": 17,
+      "minute": 0
+     }
+    },
+    {
+     "open": {
+      "day": 5,
+      "hour": 10,
+      "minute": 0
+     },
+     "close": {
+      "day": 5,
+      "hour": 17,
+      "minute": 0
+     }
+    },
+    {
+     "open": {
+      "day": 6,
+      "hour": 11,
+      "minute": 0
+     },
+     "close": {
+      "day": 6,
+      "hour": 17,
+      "minute": 0
+     }
+    }
+   ],
+   "current": [
+    {
+     "open": {
+      "day": 0,
+      "hour": 11,
+      "minute": 0,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 15
+      }
+     },
+     "close": {
+      "day": 0,
+      "hour": 17,
+      "minute": 0,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 15
+      }
+     }
+    },
+    {
+     "open": {
+      "day": 1,
+      "hour": 10,
+      "minute": 0,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 9
+      }
+     },
+     "close": {
+      "day": 1,
+      "hour": 17,
+      "minute": 0,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 9
+      }
+     }
+    },
+    {
+     "open": {
+      "day": 2,
+      "hour": 10,
+      "minute": 0,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 10
+      }
+     },
+     "close": {
+      "day": 2,
+      "hour": 17,
+      "minute": 0,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 10
+      }
+     }
+    },
+    {
+     "open": {
+      "day": 3,
+      "hour": 10,
+      "minute": 0,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 11
+      }
+     },
+     "close": {
+      "day": 3,
+      "hour": 17,
+      "minute": 0,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 11
+      }
+     }
+    },
+    {
+     "open": {
+      "day": 4,
+      "hour": 10,
+      "minute": 0,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 12
+      }
+     },
+     "close": {
+      "day": 4,
+      "hour": 17,
+      "minute": 0,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 12
+      }
+     }
+    },
+    {
+     "open": {
+      "day": 5,
+      "hour": 10,
+      "minute": 0,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 13
+      }
+     },
+     "close": {
+      "day": 5,
+      "hour": 17,
+      "minute": 0,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 13
+      }
+     }
+    },
+    {
+     "open": {
+      "day": 6,
+      "hour": 11,
+      "minute": 0,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 14
+      }
+     },
+     "close": {
+      "day": 6,
+      "hour": 17,
+      "minute": 0,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 14
+      }
+     }
+    }
+   ],
+   "fetched": "2026-11-09"
+  },
+  "Nigi no Hama": {
+   "place_id": "ChIJSVPT9v7pQTUROnTl7T4jQxs",
+   "matched_name": "Nigi no Hama",
+   "distance_m": 0,
+   "status": "OPERATIONAL",
+   "uri": "https://maps.google.com/?cid=1964452615649850426&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "regular": [
+    {
+     "open": {
+      "day": 0,
+      "hour": 0,
+      "minute": 0
+     }
+    }
+   ],
+   "current": [
+    {
+     "open": {
+      "day": 1,
+      "hour": 0,
+      "minute": 0,
+      "truncated": true,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 9
+      }
+     },
+     "close": {
+      "day": 0,
+      "hour": 23,
+      "minute": 59,
+      "truncated": true,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 15
+      }
+     }
+    }
+   ],
+   "fetched": "2026-11-09"
+  },
+  "Keya no Ohto": {
+   "place_id": "ChIJ80ZkHJ_nQTURTukZjfjbuZE",
+   "matched_name": "Keya no Ohto",
+   "distance_m": 0,
+   "status": "OPERATIONAL",
+   "uri": "https://maps.google.com/?cid=10500665866756680014&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "regular": [
+    {
+     "open": {
+      "day": 0,
+      "hour": 9,
+      "minute": 0
+     },
+     "close": {
+      "day": 0,
+      "hour": 16,
+      "minute": 30
+     }
+    },
+    {
+     "open": {
+      "day": 1,
+      "hour": 9,
+      "minute": 0
+     },
+     "close": {
+      "day": 1,
+      "hour": 16,
+      "minute": 30
+     }
+    },
+    {
+     "open": {
+      "day": 2,
+      "hour": 9,
+      "minute": 0
+     },
+     "close": {
+      "day": 2,
+      "hour": 16,
+      "minute": 30
+     }
+    },
+    {
+     "open": {
+      "day": 3,
+      "hour": 9,
+      "minute": 0
+     },
+     "close": {
+      "day": 3,
+      "hour": 16,
+      "minute": 30
+     }
+    },
+    {
+     "open": {
+      "day": 4,
+      "hour": 9,
+      "minute": 0
+     },
+     "close": {
+      "day": 4,
+      "hour": 16,
+      "minute": 30
+     }
+    },
+    {
+     "open": {
+      "day": 5,
+      "hour": 9,
+      "minute": 0
+     },
+     "close": {
+      "day": 5,
+      "hour": 16,
+      "minute": 30
+     }
+    },
+    {
+     "open": {
+      "day": 6,
+      "hour": 9,
+      "minute": 0
+     },
+     "close": {
+      "day": 6,
+      "hour": 16,
+      "minute": 30
+     }
+    }
+   ],
+   "current": [
+    {
+     "open": {
+      "day": 0,
+      "hour": 9,
+      "minute": 0,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 15
+      }
+     },
+     "close": {
+      "day": 0,
+      "hour": 16,
+      "minute": 30,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 15
+      }
+     }
+    },
+    {
+     "open": {
+      "day": 1,
+      "hour": 9,
+      "minute": 0,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 9
+      }
+     },
+     "close": {
+      "day": 1,
+      "hour": 16,
+      "minute": 30,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 9
+      }
+     }
+    },
+    {
+     "open": {
+      "day": 2,
+      "hour": 9,
+      "minute": 0,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 10
+      }
+     },
+     "close": {
+      "day": 2,
+      "hour": 16,
+      "minute": 30,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 10
+      }
+     }
+    },
+    {
+     "open": {
+      "day": 3,
+      "hour": 9,
+      "minute": 0,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 11
+      }
+     },
+     "close": {
+      "day": 3,
+      "hour": 16,
+      "minute": 30,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 11
+      }
+     }
+    },
+    {
+     "open": {
+      "day": 4,
+      "hour": 9,
+      "minute": 0,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 12
+      }
+     },
+     "close": {
+      "day": 4,
+      "hour": 16,
+      "minute": 30,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 12
+      }
+     }
+    },
+    {
+     "open": {
+      "day": 5,
+      "hour": 9,
+      "minute": 0,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 13
+      }
+     },
+     "close": {
+      "day": 5,
+      "hour": 16,
+      "minute": 30,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 13
+      }
+     }
+    },
+    {
+     "open": {
+      "day": 6,
+      "hour": 9,
+      "minute": 0,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 14
+      }
+     },
+     "close": {
+      "day": 6,
+      "hour": 16,
+      "minute": 30,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 14
+      }
+     }
+    }
+   ],
+   "fetched": "2026-11-09"
+  },
+  "Tateishi Yamafukunoura trailhead (lot)": {
+   "place_id": "ChIJ-_vEqGjdQTURzSfsf8OpWvQ",
+   "matched_name": "Mt. Tateishi Trailhead (Road)",
+   "distance_m": 22,
+   "status": "OPERATIONAL",
+   "uri": "https://maps.google.com/?cid=17607572350288275405&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "regular": [
+    {
+     "open": {
+      "day": 0,
+      "hour": 0,
+      "minute": 0
+     }
+    }
+   ],
+   "current": [
+    {
+     "open": {
+      "day": 1,
+      "hour": 0,
+      "minute": 0,
+      "truncated": true,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 9
+      }
+     },
+     "close": {
+      "day": 0,
+      "hour": 23,
+      "minute": 59,
+      "truncated": true,
+      "date": {
+       "year": 2026,
+       "month": 11,
+       "day": 15
+      }
+     }
+    }
+   ],
+   "fetched": "2026-11-09"
   }
  },
  "visits": {
   "Day 1 - Wed 2 Dec: Land 07:35, then Dazaifu, Itoshima and Karatsu": {
    "Sakurai Futamigaura's Couple Stones": [
+    {
+     "date": "Wed 2 Dec",
+     "iso": "2026-12-02",
+     "text": "Open 24 hours",
+     "closed": false,
+     "unknown": false,
+     "source": "weekly"
+    }
+   ],
+   "London Bus Cafe": [
+    {
+     "date": "Wed 2 Dec",
+     "iso": "2026-12-02",
+     "text": "10:00-17:00",
+     "closed": false,
+     "unknown": false,
+     "source": "weekly"
+    }
+   ],
+   "Nigi no Hama": [
+    {
+     "date": "Wed 2 Dec",
+     "iso": "2026-12-02",
+     "text": "Open 24 hours",
+     "closed": false,
+     "unknown": false,
+     "source": "weekly"
+    }
+   ],
+   "Keya no Ohto": [
+    {
+     "date": "Wed 2 Dec",
+     "iso": "2026-12-02",
+     "text": "09:00-16:30",
+     "closed": false,
+     "unknown": false,
+     "source": "weekly"
+    }
+   ],
+   "Tateishi Yamafukunoura trailhead (lot)": [
     {
      "date": "Wed 2 Dec",
      "iso": "2026-12-02",

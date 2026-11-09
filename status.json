@@ -1,24 +1,24 @@
 {
  "reminders": {
   "label": "Booking and cancellation reminders",
-  "last_run": "2026-11-08T00:00:16+00:00",
+  "last_run": "2026-11-09T00:02:01+00:00",
   "ok": true,
-  "detail": "2 due in the next 3 days; next: Book by Sun 08 Nov (0 days): Rental car from Fukuoka Airport (to Wed 9",
-  "last_ok": "2026-11-08T00:00:16+00:00"
+  "detail": "1 due in the next 3 days; next: Book by Wed 11 Nov (2 days): Shinkansen Hakata-Hiroshima-Shin-Osaka (t",
+  "last_ok": "2026-11-09T00:02:01+00:00"
  },
  "weather": {
   "label": "Weather outlook",
-  "last_run": "2026-11-07T22:30:30+00:00",
+  "last_run": "2026-11-08T22:32:01+00:00",
   "ok": true,
-  "detail": "no trip day in the 16-day window yet (first day is in 24 days)",
-  "last_ok": "2026-11-07T22:30:30+00:00"
+  "detail": "no trip day in the 16-day window yet (first day is in 23 days)",
+  "last_ok": "2026-11-08T22:32:01+00:00"
  },
  "push": {
   "label": "Publishing to GitHub",
-  "last_run": "2026-11-08T21:30:01+00:00",
+  "last_run": "2026-11-09T03:30:01+00:00",
   "ok": true,
   "detail": "public site: up to date; project: up to date",
-  "last_ok": "2026-11-08T21:30:01+00:00"
+  "last_ok": "2026-11-09T03:30:01+00:00"
  },
  "maps": {
   "label": "Route maps",
@@ -36,17 +36,17 @@
  },
  "bookings": {
   "label": "Hotel booking emails",
-  "last_run": "2026-11-08T21:28:04+00:00",
+  "last_run": "2026-11-09T03:38:24+00:00",
   "ok": false,
   "detail": "mailbox not reachable: is Proton Mail Bridge running and logged in?",
   "last_ok": "2026-11-05T16:09:23+00:00"
  },
  "health": {
   "label": "Health checks",
-  "last_run": "2026-11-07T23:01:02+00:00",
+  "last_run": "2026-11-08T23:00:21+00:00",
   "ok": true,
   "detail": "all 7 checks ok",
-  "last_ok": "2026-11-07T23:01:02+00:00"
+  "last_ok": "2026-11-08T23:00:21+00:00"
  },
  "hours": {
   "label": "Opening hours",
@@ -57,10 +57,10 @@
  },
  "adverts": {
   "label": "Telegram adverts",
-  "last_run": "2026-11-08T01:01:19+00:00",
+  "last_run": "2026-11-09T01:01:01+00:00",
   "ok": true,
-  "detail": "day-13 posted; next: day-14 on 2026-11-10",
-  "last_ok": "2026-11-08T01:01:19+00:00"
+  "detail": "nothing due today; next: day-14 on 2026-11-10",
+  "last_ok": "2026-11-09T01:01:01+00:00"
  },
  "flights": {
   "label": "Airline emails (flight changes)",
