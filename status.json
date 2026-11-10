@@ -1,10 +1,10 @@
 {
  "reminders": {
   "label": "Booking and cancellation reminders",
-  "last_run": "2026-11-09T00:02:01+00:00",
+  "last_run": "2026-11-10T00:00:59+00:00",
   "ok": true,
-  "detail": "1 due in the next 3 days; next: Book by Wed 11 Nov (2 days): Shinkansen Hakata-Hiroshima-Shin-Osaka (t",
-  "last_ok": "2026-11-09T00:02:01+00:00"
+  "detail": "1 due in the next 3 days; next: Book by Wed 11 Nov (1 days): Shinkansen Hakata-Hiroshima-Shin-Osaka (t",
+  "last_ok": "2026-11-10T00:00:59+00:00"
  },
  "weather": {
   "label": "Weather outlook",
@@ -15,10 +15,10 @@
  },
  "push": {
   "label": "Publishing to GitHub",
-  "last_run": "2026-11-09T23:30:01+00:00",
+  "last_run": "2026-11-10T06:00:01+00:00",
   "ok": true,
   "detail": "public site: up to date; project: up to date",
-  "last_ok": "2026-11-09T23:30:01+00:00"
+  "last_ok": "2026-11-10T06:00:01+00:00"
  },
  "maps": {
   "label": "Route maps",
@@ -36,7 +36,7 @@
  },
  "bookings": {
   "label": "Hotel booking emails",
-  "last_run": "2026-11-09T23:29:30+00:00",
+  "last_run": "2026-11-10T05:59:51+00:00",
   "ok": false,
   "detail": "mailbox not reachable: is Proton Mail Bridge running and logged in?",
   "last_ok": "2026-11-05T16:09:23+00:00"
@@ -57,10 +57,10 @@
  },
  "adverts": {
   "label": "Telegram adverts",
-  "last_run": "2026-11-09T01:01:01+00:00",
+  "last_run": "2026-11-10T01:01:25+00:00",
   "ok": true,
-  "detail": "nothing due today; next: day-14 on 2026-11-10",
-  "last_ok": "2026-11-09T01:01:01+00:00"
+  "detail": "day-14 posted; next: day-15 on 2026-11-12",
+  "last_ok": "2026-11-10T01:01:25+00:00"
  },
  "flights": {
   "label": "Airline emails (flight changes)",
