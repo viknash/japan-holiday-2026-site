@@ -22,24 +22,24 @@
  },
  "maps": {
   "label": "Route maps",
-  "last_run": "2026-11-15T16:03:19+00:00",
+  "last_run": "2026-11-15T16:07:02+00:00",
   "ok": true,
-  "detail": "redrawn for day(s) 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17",
-  "last_ok": "2026-11-15T16:03:19+00:00"
+  "detail": "redrawn for day(s) 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21",
+  "last_ok": "2026-11-15T16:07:02+00:00"
  },
  "sync": {
   "label": "Itinerary and website sync",
-  "last_run": "2026-11-04T11:10:54+00:00",
-  "ok": false,
-  "detail": "itinerary and site updated; a push failed, will retry",
-  "last_ok": "2026-11-03T15:07:27+00:00"
+  "last_run": "2026-11-15T16:05:05+00:00",
+  "ok": true,
+  "detail": "itinerary and site updated",
+  "last_ok": "2026-11-15T16:05:05+00:00"
  },
  "bookings": {
   "label": "Hotel booking emails",
-  "last_run": "2026-11-15T15:56:33+00:00",
+  "last_run": "2026-11-15T16:07:28+00:00",
   "ok": true,
-  "detail": "mailbox checked; 7 booking(s) on file",
-  "last_ok": "2026-11-15T15:56:33+00:00"
+  "detail": "mailbox checked; 11 booking(s) on file",
+  "last_ok": "2026-11-15T16:07:28+00:00"
  },
  "health": {
   "label": "Health checks",
@@ -64,10 +64,10 @@
  },
  "flights": {
   "label": "Airline emails (flight changes)",
-  "last_run": "2026-11-15T15:56:34+00:00",
+  "last_run": "2026-11-15T16:07:29+00:00",
   "ok": true,
-  "detail": "18 new email(s) read; 0 flight change alert(s) sent",
-  "last_ok": "2026-11-15T15:56:34+00:00"
+  "detail": "1 new email(s) read; 0 flight change alert(s) sent",
+  "last_ok": "2026-11-15T16:07:29+00:00"
  },
  "hazards": {
   "label": "Earthquake alerts (JMA)",
