@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-15",
+ "checked": "2026-11-18",
  "places": {
   "Dazaifu Tenmangu Shrine": {
    "place_id": "ChIJzfvrKp-bQTURl65fp6vRJLg",
@@ -20120,6 +20120,16 @@
     }
    ],
    "fetched": "2026-11-15"
+  },
+  "Ishinamigawa River Swim Spot": {
+   "place_id": "ChIJvVrcdABBRzUR7DMVB12BXUg",
+   "matched_name": "Ishinamigawa River Swim Spot",
+   "distance_m": 0,
+   "status": "OPERATIONAL",
+   "uri": "https://maps.google.com/?cid=5214466180115674092&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+   "regular": [],
+   "current": [],
+   "fetched": "2026-11-18"
   }
  },
  "visits": {
@@ -20392,6 +20402,16 @@
    ]
   },
   "Day 5 - Sun 6 Dec: Nobeoka, Cape Hyuga, Takachiho Gorge, Kurokawa Onsen and on to Aso": {
+   "Ishinamigawa River Swim Spot": [
+    {
+     "date": "Sun 6 Dec",
+     "iso": "2026-12-06",
+     "text": "Opening hours not listed on Google (check the official site)",
+     "closed": false,
+     "unknown": true,
+     "source": "none"
+    }
+   ],
    "The Sea Cross Overlook": [
     {
      "date": "Sun 6 Dec",

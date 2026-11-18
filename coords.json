@@ -139,6 +139,10 @@
   32.336548,
   131.610062
  ],
+ "Ishinamigawa River Swim Spot": [
+  32.330372,
+  131.590099
+ ],
  "The Sea Cross Overlook": [
   32.419535,
   131.679488
@@ -375,9 +379,9 @@
   33.5897,
   130.4207
  ],
- "Minn Umeda-North (Osaka, overnight)": [
-  34.7001,
-  135.4891
+ "寧安居 (overnight)": [
+  34.654381,
+  135.509766
  ],
  "Osaka Castle": [
   34.687257,
@@ -391,9 +395,9 @@
   34.6525,
   135.5063
  ],
- "Minn Umeda-North (Osaka hotel)": [
-  34.7001,
-  135.4891
+ "寧安居": [
+  34.654381,
+  135.509766
  ],
  "Nunobiki Falls - Ontaki": [
   34.7097,
@@ -474,10 +478,6 @@
  "Bubba Gump Shrimp Co. (Universal CityWalk Osaka, outside the park, dinner)": [
   34.66865,
   135.4376
- ],
- "Minn Umeda-North (Osaka hotel): JR to Universal City Station": [
-  34.7001,
-  135.4891
  ],
  "Saga-Arashiyama Station": [
   35.018781,
@@ -591,9 +591,9 @@
   35.1425,
   138.6633
  ],
- "Ueno Station (Tokyo base)": [
-  35.7138,
-  139.7774
+ "the Moto Hotel Ueno III (overnight)": [
+  35.715534,
+  139.783105
  ],
  "Ueno Zoological Gardens": [
   35.716448,
@@ -606,6 +606,10 @@
  "Ameyoko market (suggested)": [
   35.71007,
   139.7746
+ ],
+ "the Moto Hotel Ueno III": [
+  35.715534,
+  139.783105
  ],
  "Omiya Station: change to Hayabusa 5 (08:42)": [
   35.9064,
@@ -631,13 +635,9 @@
   41.76012,
   140.70981
  ],
- "Ueno Station: board Kagayaki 505 at 08:17": [
-  35.7138,
-  139.7774
- ],
- "Hotel Global View Hakodate (overnight)": [
-  41.769912,
-  140.735381
+ "HOTEL MYSTAYS Hakodate Station (overnight)": [
+  41.773562,
+  140.729004
  ],
  "Hakodate Morning Market (suggested)": [
   41.77246,
@@ -655,9 +655,13 @@
   43.06866,
   141.35076
  ],
- "Sapporo Station area (hotel, overnight)": [
-  43.06866,
-  141.35076
+ "HOTEL MYSTAYS Hakodate Station": [
+  41.773562,
+  140.729004
+ ],
+ "Alpha Square Minami 5-jo Higashi (overnight)": [
+  43.055904,
+  141.360422
  ],
  "Hokkaido Jingu shrine and Maruyama Park (suggested)": [
   43.05433,
@@ -678,6 +682,14 @@
  "Sapporo TV Tower (suggested)": [
   43.0611,
   141.35642
+ ],
+ "Alpha Square Minami 5-jo Higashi": [
+  43.055904,
+  141.360422
+ ],
+ "Sapporo Station area (hotel, overnight)": [
+  43.06866,
+  141.35076
  ],
  "Noboribetsu Jigokudani (Hell Valley)": [
   42.49762,
