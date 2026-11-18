@@ -1,24 +1,24 @@
 {
  "reminders": {
   "label": "Booking and cancellation reminders",
-  "last_run": "2026-11-17T00:00:30+00:00",
+  "last_run": "2026-11-18T00:01:35+00:00",
   "ok": true,
-  "detail": "3 due in the next 3 days; next: Book by Wed 18 Nov (1 days): Day car rental at Shin-Fuji (Mt Fuji area",
-  "last_ok": "2026-11-17T00:00:30+00:00"
+  "detail": "4 due in the next 3 days; next: Book by Wed 18 Nov (0 days): Day car rental at Shin-Fuji (Mt Fuji area",
+  "last_ok": "2026-11-18T00:01:35+00:00"
  },
  "weather": {
   "label": "Weather outlook",
-  "last_run": "2026-11-16T22:35:24+00:00",
+  "last_run": "2026-11-17T22:31:11+00:00",
   "ok": false,
-  "detail": "no trip day in the 16-day window yet (first day is in 15 days)",
+  "detail": "no trip day in the 16-day window yet (first day is in 14 days)",
   "last_ok": "2026-11-15T22:32:01+00:00"
  },
  "push": {
   "label": "Publishing to GitHub",
-  "last_run": "2026-11-17T20:00:01+00:00",
+  "last_run": "2026-11-18T02:30:01+00:00",
   "ok": true,
   "detail": "public site: up to date; project: up to date",
-  "last_ok": "2026-11-17T20:00:01+00:00"
+  "last_ok": "2026-11-18T02:30:01+00:00"
  },
  "maps": {
   "label": "Route maps",
@@ -36,17 +36,17 @@
  },
  "bookings": {
   "label": "Hotel booking emails",
-  "last_run": "2026-11-17T19:54:37+00:00",
+  "last_run": "2026-11-18T02:21:16+00:00",
   "ok": true,
   "detail": "mailbox checked; 11 booking(s) on file",
-  "last_ok": "2026-11-17T19:54:37+00:00"
+  "last_ok": "2026-11-18T02:21:16+00:00"
  },
  "health": {
   "label": "Health checks",
-  "last_run": "2026-11-16T23:02:01+00:00",
+  "last_run": "2026-11-17T23:02:00+00:00",
   "ok": true,
   "detail": "all 8 checks ok",
-  "last_ok": "2026-11-16T23:02:01+00:00"
+  "last_ok": "2026-11-17T23:02:00+00:00"
  },
  "hours": {
   "label": "Opening hours",
@@ -57,17 +57,17 @@
  },
  "adverts": {
   "label": "Telegram adverts",
-  "last_run": "2026-11-17T01:01:01+00:00",
+  "last_run": "2026-11-18T01:01:19+00:00",
   "ok": true,
-  "detail": "nothing due today; next: day-18 on 2026-11-18",
-  "last_ok": "2026-11-17T01:01:01+00:00"
+  "detail": "day-18 posted; next: day-19 on 2026-11-20",
+  "last_ok": "2026-11-18T01:01:19+00:00"
  },
  "flights": {
   "label": "Airline emails (flight changes)",
-  "last_run": "2026-11-17T19:54:38+00:00",
+  "last_run": "2026-11-18T02:21:17+00:00",
   "ok": true,
   "detail": "0 new email(s) read; 0 flight change alert(s) sent",
-  "last_ok": "2026-11-17T19:54:38+00:00"
+  "last_ok": "2026-11-18T02:21:17+00:00"
  },
  "hazards": {
   "label": "Earthquake alerts (JMA)",
