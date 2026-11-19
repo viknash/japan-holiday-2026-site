@@ -8,17 +8,17 @@
  },
  "weather": {
   "label": "Weather outlook",
-  "last_run": "2026-11-18T22:35:03+00:00",
+  "last_run": "2026-11-19T22:33:06+00:00",
   "ok": false,
-  "detail": "no trip day in the 16-day window yet (first day is in 13 days)",
+  "detail": "3 trip day(s) in the forecast window; nothing to watch",
   "last_ok": "2026-11-15T22:32:01+00:00"
  },
  "push": {
   "label": "Publishing to GitHub",
-  "last_run": "2026-11-19T19:00:01+00:00",
+  "last_run": "2026-11-19T22:30:01+00:00",
   "ok": true,
   "detail": "public site: up to date; project: up to date",
-  "last_ok": "2026-11-19T19:00:01+00:00"
+  "last_ok": "2026-11-19T22:30:01+00:00"
  },
  "maps": {
   "label": "Route maps",
@@ -36,10 +36,10 @@
  },
  "bookings": {
   "label": "Hotel booking emails",
-  "last_run": "2026-11-19T18:49:44+00:00",
+  "last_run": "2026-11-19T22:23:33+00:00",
   "ok": true,
   "detail": "mailbox checked; 11 booking(s) on file",
-  "last_ok": "2026-11-19T18:49:44+00:00"
+  "last_ok": "2026-11-19T22:23:33+00:00"
  },
  "health": {
   "label": "Health checks",
@@ -64,10 +64,10 @@
  },
  "flights": {
   "label": "Airline emails (flight changes)",
-  "last_run": "2026-11-19T18:55:11+00:00",
+  "last_run": "2026-11-19T22:29:02+00:00",
   "ok": true,
   "detail": "0 new email(s) read; 0 flight change alert(s) sent",
-  "last_ok": "2026-11-19T18:55:11+00:00"
+  "last_ok": "2026-11-19T22:29:02+00:00"
  },
  "hazards": {
   "label": "Earthquake alerts (JMA)",
