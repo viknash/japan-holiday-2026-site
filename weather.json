@@ -4,47 +4,58 @@
    "title": "Day 1 - Wed 2 Dec",
    "date": "2026-12-02",
    "place": "Sakurai Futamigaura's Couple Stones",
-   "temperature_2m_max": 22.7,
-   "temperature_2m_min": 15.2,
-   "precipitation_sum": 16.2,
+   "temperature_2m_max": 19.1,
+   "temperature_2m_min": 12.9,
+   "precipitation_sum": 0.2,
    "snowfall_sum": 0.0,
-   "wind_gusts_10m_max": 35.3,
-   "watch": [
-    "rain 16 mm"
-   ]
+   "wind_gusts_10m_max": 30.6,
+   "watch": []
   },
   {
    "title": "Day 2 - Thu 3 Dec",
    "date": "2026-12-03",
    "place": "Mikaeri No Taki Falls",
-   "temperature_2m_max": 17.6,
-   "temperature_2m_min": 6.0,
-   "precipitation_sum": 3.6,
+   "temperature_2m_max": 18.3,
+   "temperature_2m_min": 10.3,
+   "precipitation_sum": 11.2,
    "snowfall_sum": 0.0,
-   "wind_gusts_10m_max": 54.0,
+   "wind_gusts_10m_max": 50.0,
    "watch": []
   },
   {
    "title": "Day 3 - Fri 4 Dec",
    "date": "2026-12-04",
    "place": "Kumamoto Castle",
-   "temperature_2m_max": 10.7,
-   "temperature_2m_min": 0.5,
-   "precipitation_sum": 0.0,
+   "temperature_2m_max": 17.6,
+   "temperature_2m_min": 4.8,
+   "precipitation_sum": 0.4,
    "snowfall_sum": 0.0,
-   "wind_gusts_10m_max": 31.0,
+   "wind_gusts_10m_max": 55.1,
    "watch": []
   },
   {
    "title": "Day 4 - Sat 5 Dec",
    "date": "2026-12-05",
    "place": "Sengan-en",
-   "temperature_2m_max": 14.8,
-   "temperature_2m_min": 2.0,
+   "temperature_2m_max": 12.0,
+   "temperature_2m_min": 4.7,
    "precipitation_sum": 0.0,
    "snowfall_sum": 0.0,
-   "wind_gusts_10m_max": 32.3,
+   "wind_gusts_10m_max": 39.2,
    "watch": []
+  },
+  {
+   "title": "Day 5 - Sun 6 Dec",
+   "date": "2026-12-06",
+   "place": "Ishinamigawa River Swim Spot",
+   "temperature_2m_max": 17.5,
+   "temperature_2m_min": 3.2,
+   "precipitation_sum": 17.05,
+   "snowfall_sum": 0.0,
+   "wind_gusts_10m_max": 27.4,
+   "watch": [
+    "rain 17 mm"
+   ]
   }
  ]
 }
