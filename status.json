@@ -15,9 +15,9 @@
  },
  "push": {
   "label": "Publishing to GitHub",
-  "last_run": "2026-11-26T04:00:21+00:00",
+  "last_run": "2026-11-26T04:30:21+00:00",
   "ok": false,
-  "detail": "public site: 14 commit(s) waiting, push failed (credentials?); project: 1 commit(s) waiting, push failed (credentials?)",
+  "detail": "public site: 15 commit(s) waiting, push failed (credentials?); project: 1 commit(s) waiting, push failed (credentials?)",
   "last_ok": "2026-11-24T22:30:00+00:00"
  },
  "maps": {
@@ -36,7 +36,7 @@
  },
  "bookings": {
   "label": "Hotel booking emails",
-  "last_run": "2026-11-26T03:55:11+00:00",
+  "last_run": "2026-11-26T04:26:41+00:00",
   "ok": false,
   "detail": "mailbox not reachable: is Proton Mail Bridge running and logged in?",
   "last_ok": "2026-11-25T21:45:53+00:00"
