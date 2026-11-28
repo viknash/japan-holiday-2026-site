@@ -15,9 +15,9 @@
  },
  "push": {
   "label": "Publishing to GitHub",
-  "last_run": "2026-11-28T01:00:21+00:00",
+  "last_run": "2026-11-28T01:30:21+00:00",
   "ok": false,
-  "detail": "public site: 104 commit(s) waiting, push failed (credentials?); project: 1 commit(s) waiting, push failed (credentials?)",
+  "detail": "public site: 105 commit(s) waiting, push failed (credentials?); project: 1 commit(s) waiting, push failed (credentials?)",
   "last_ok": "2026-11-24T22:30:00+00:00"
  },
  "maps": {
@@ -36,7 +36,7 @@
  },
  "bookings": {
   "label": "Hotel booking emails",
-  "last_run": "2026-11-28T00:54:21+00:00",
+  "last_run": "2026-11-28T01:25:51+00:00",
   "ok": false,
   "detail": "mailbox not reachable: is Proton Mail Bridge running and logged in?",
   "last_ok": "2026-11-25T21:45:53+00:00"
@@ -57,10 +57,10 @@
  },
  "adverts": {
   "label": "Telegram adverts",
-  "last_run": "2026-11-27T01:03:15+00:00",
-  "ok": false,
-  "detail": "option-c could not be posted (Telegram not reachable or not configured); next: option-c on 2026-11-27",
-  "last_ok": "2026-11-26T01:01:01+00:00"
+  "last_run": "2026-11-28T01:01:22+00:00",
+  "ok": true,
+  "detail": "nothing due today; next: option-c on 2026-11-29",
+  "last_ok": "2026-11-28T01:01:22+00:00"
  },
  "flights": {
   "label": "Airline emails (flight changes)",
