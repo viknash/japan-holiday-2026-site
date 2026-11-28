@@ -1,10 +1,10 @@
 {
  "reminders": {
   "label": "Booking and cancellation reminders",
-  "last_run": "2026-11-27T00:02:01+00:00",
+  "last_run": "2026-11-28T00:00:12+00:00",
   "ok": true,
   "detail": "0 due in the next 3 days",
-  "last_ok": "2026-11-27T00:02:01+00:00"
+  "last_ok": "2026-11-28T00:00:12+00:00"
  },
  "weather": {
   "label": "Weather outlook",
@@ -15,9 +15,9 @@
  },
  "push": {
   "label": "Publishing to GitHub",
-  "last_run": "2026-11-27T23:30:21+00:00",
+  "last_run": "2026-11-28T00:00:21+00:00",
   "ok": false,
-  "detail": "public site: 101 commit(s) waiting, push failed (credentials?); project: 1 commit(s) waiting, push failed (credentials?)",
+  "detail": "public site: 102 commit(s) waiting, push failed (credentials?); project: 1 commit(s) waiting, push failed (credentials?)",
   "last_ok": "2026-11-24T22:30:00+00:00"
  },
  "maps": {
@@ -36,7 +36,7 @@
  },
  "bookings": {
   "label": "Hotel booking emails",
-  "last_run": "2026-11-27T23:30:19+00:00",
+  "last_run": "2026-11-27T23:51:20+00:00",
   "ok": false,
   "detail": "mailbox not reachable: is Proton Mail Bridge running and logged in?",
   "last_ok": "2026-11-25T21:45:53+00:00"
