@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-22",
+ "checked": "2026-11-29",
  "places": {
   "Dazaifu Tenmangu Shrine": {
    "place_id": "ChIJzfvrKp-bQTURl65fp6vRJLg",
@@ -21207,153 +21207,11 @@
     }
    ]
   },
-  "Day 13 - Mon 14 Dec: Universal Studios Japan": {
-   "Universal Studios Japan Arch Gate (security and entry; park opens about 09:00)": [
-    {
-     "date": "Mon 14 Dec",
-     "iso": "2026-12-14",
-     "text": "09:00-21:00",
-     "closed": false,
-     "unknown": false,
-     "source": "weekly"
-    }
-   ],
-   "Donkey Kong Country: Mine Cart Madness": [
-    {
-     "date": "Mon 14 Dec",
-     "iso": "2026-12-14",
-     "text": "08:00-22:00",
-     "closed": false,
-     "unknown": false,
-     "source": "weekly"
-    }
-   ],
-   "Mario Kart: Koopa's Challenge": [
-    {
-     "date": "Mon 14 Dec",
-     "iso": "2026-12-14",
-     "text": "08:00-22:00",
-     "closed": false,
-     "unknown": false,
-     "source": "weekly"
-    }
-   ],
-   "Yoshi's Adventure": [
-    {
-     "date": "Mon 14 Dec",
-     "iso": "2026-12-14",
-     "text": "08:00-22:00",
-     "closed": false,
-     "unknown": false,
-     "source": "weekly"
-    }
-   ],
-   "Harry Potter and the Forbidden Journey": [
-    {
-     "date": "Mon 14 Dec",
-     "iso": "2026-12-14",
-     "text": "09:00-19:30",
-     "closed": false,
-     "unknown": false,
-     "source": "weekly"
-    }
-   ],
-   "Flight of the Hippogriff": [
-    {
-     "date": "Mon 14 Dec",
-     "iso": "2026-12-14",
-     "text": "09:00-19:30",
-     "closed": false,
-     "unknown": false,
-     "source": "weekly"
-    }
-   ],
-   "Ollivanders wand shop": [
-    {
-     "date": "Mon 14 Dec",
-     "iso": "2026-12-14",
-     "text": "09:00-21:20",
-     "closed": false,
-     "unknown": false,
-     "source": "weekly"
-    }
-   ],
-   "WaterWorld (live stunt show; check show times)": [
-    {
-     "date": "Mon 14 Dec",
-     "iso": "2026-12-14",
-     "text": "Opening hours not listed on Google (check the official site)",
-     "closed": false,
-     "unknown": true,
-     "source": "none"
-    }
-   ],
-   "Jurassic Park: The Ride (you get wet)": [
-    {
-     "date": "Mon 14 Dec",
-     "iso": "2026-12-14",
-     "text": "09:00-21:00",
-     "closed": false,
-     "unknown": false,
-     "source": "weekly"
-    }
-   ],
-   "Despicable Me: Minion Mayhem": [
-    {
-     "date": "Mon 14 Dec",
-     "iso": "2026-12-14",
-     "text": "08:00-22:00",
-     "closed": false,
-     "unknown": false,
-     "source": "weekly"
-    }
-   ],
-   "Illumination's Villain-Con Minion Blast": [
-    {
-     "date": "Mon 14 Dec",
-     "iso": "2026-12-14",
-     "text": "Opening hours not listed on Google (check the official site)",
-     "closed": false,
-     "unknown": true,
-     "source": "none"
-    }
-   ],
-   "Jaws": [
-    {
-     "date": "Mon 14 Dec",
-     "iso": "2026-12-14",
-     "text": "09:00-19:30",
-     "closed": false,
-     "unknown": false,
-     "source": "weekly"
-    }
-   ],
-   "Space Fantasy: The Ride (check: shown as temporarily closed)": [
-    {
-     "date": "Mon 14 Dec",
-     "iso": "2026-12-14",
-     "text": "Temporarily closed according to Google (check)",
-     "closed": true,
-     "unknown": false,
-     "source": "status"
-    }
-   ],
-   "Bubba Gump Shrimp Co. (Universal CityWalk Osaka, outside the park, dinner)": [
-    {
-     "date": "Mon 14 Dec",
-     "iso": "2026-12-14",
-     "text": "11:00-22:00",
-     "closed": false,
-     "unknown": false,
-     "source": "weekly"
-    }
-   ]
-  },
-  "Day 14 - Tue 15 Dec: Kyoto west and north": {
+  "Day 13 - Mon 14 Dec: Kyoto west and north": {
    "Arashiyama Bamboo Forest": [
     {
-     "date": "Tue 15 Dec",
-     "iso": "2026-12-15",
+     "date": "Mon 14 Dec",
+     "iso": "2026-12-14",
      "text": "Open 24 hours",
      "closed": false,
      "unknown": false,
@@ -21362,8 +21220,8 @@
    ],
    "Kinkaku-ji": [
     {
-     "date": "Tue 15 Dec",
-     "iso": "2026-12-15",
+     "date": "Mon 14 Dec",
+     "iso": "2026-12-14",
      "text": "09:00-17:00",
      "closed": false,
      "unknown": false,
@@ -21372,9 +21230,151 @@
    ],
    "Nijō Castle": [
     {
+     "date": "Mon 14 Dec",
+     "iso": "2026-12-14",
+     "text": "08:45-17:00",
+     "closed": false,
+     "unknown": false,
+     "source": "weekly"
+    }
+   ]
+  },
+  "Day 14 - Tue 15 Dec: Universal Studios Japan": {
+   "Universal Studios Japan Arch Gate (security and entry; park opens about 09:00)": [
+    {
      "date": "Tue 15 Dec",
      "iso": "2026-12-15",
-     "text": "08:45-17:00",
+     "text": "09:00-21:00",
+     "closed": false,
+     "unknown": false,
+     "source": "weekly"
+    }
+   ],
+   "Donkey Kong Country: Mine Cart Madness": [
+    {
+     "date": "Tue 15 Dec",
+     "iso": "2026-12-15",
+     "text": "08:00-22:00",
+     "closed": false,
+     "unknown": false,
+     "source": "weekly"
+    }
+   ],
+   "Mario Kart: Koopa's Challenge": [
+    {
+     "date": "Tue 15 Dec",
+     "iso": "2026-12-15",
+     "text": "08:00-22:00",
+     "closed": false,
+     "unknown": false,
+     "source": "weekly"
+    }
+   ],
+   "Yoshi's Adventure": [
+    {
+     "date": "Tue 15 Dec",
+     "iso": "2026-12-15",
+     "text": "08:00-22:00",
+     "closed": false,
+     "unknown": false,
+     "source": "weekly"
+    }
+   ],
+   "Harry Potter and the Forbidden Journey": [
+    {
+     "date": "Tue 15 Dec",
+     "iso": "2026-12-15",
+     "text": "09:00-19:30",
+     "closed": false,
+     "unknown": false,
+     "source": "weekly"
+    }
+   ],
+   "Flight of the Hippogriff": [
+    {
+     "date": "Tue 15 Dec",
+     "iso": "2026-12-15",
+     "text": "09:00-19:30",
+     "closed": false,
+     "unknown": false,
+     "source": "weekly"
+    }
+   ],
+   "Ollivanders wand shop": [
+    {
+     "date": "Tue 15 Dec",
+     "iso": "2026-12-15",
+     "text": "09:00-21:20",
+     "closed": false,
+     "unknown": false,
+     "source": "weekly"
+    }
+   ],
+   "WaterWorld (live stunt show; check show times)": [
+    {
+     "date": "Tue 15 Dec",
+     "iso": "2026-12-15",
+     "text": "Opening hours not listed on Google (check the official site)",
+     "closed": false,
+     "unknown": true,
+     "source": "none"
+    }
+   ],
+   "Jurassic Park: The Ride (you get wet)": [
+    {
+     "date": "Tue 15 Dec",
+     "iso": "2026-12-15",
+     "text": "09:00-21:00",
+     "closed": false,
+     "unknown": false,
+     "source": "weekly"
+    }
+   ],
+   "Despicable Me: Minion Mayhem": [
+    {
+     "date": "Tue 15 Dec",
+     "iso": "2026-12-15",
+     "text": "08:00-22:00",
+     "closed": false,
+     "unknown": false,
+     "source": "weekly"
+    }
+   ],
+   "Illumination's Villain-Con Minion Blast": [
+    {
+     "date": "Tue 15 Dec",
+     "iso": "2026-12-15",
+     "text": "Opening hours not listed on Google (check the official site)",
+     "closed": false,
+     "unknown": true,
+     "source": "none"
+    }
+   ],
+   "Jaws": [
+    {
+     "date": "Tue 15 Dec",
+     "iso": "2026-12-15",
+     "text": "09:00-19:30",
+     "closed": false,
+     "unknown": false,
+     "source": "weekly"
+    }
+   ],
+   "Space Fantasy: The Ride (check: shown as temporarily closed)": [
+    {
+     "date": "Tue 15 Dec",
+     "iso": "2026-12-15",
+     "text": "Temporarily closed according to Google (check)",
+     "closed": true,
+     "unknown": false,
+     "source": "status"
+    }
+   ],
+   "Bubba Gump Shrimp Co. (Universal CityWalk Osaka, outside the park, dinner)": [
+    {
+     "date": "Tue 15 Dec",
+     "iso": "2026-12-15",
+     "text": "11:00-22:00",
      "closed": false,
      "unknown": false,
      "source": "weekly"
